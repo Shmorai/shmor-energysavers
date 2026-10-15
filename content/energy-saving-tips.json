@@ -1,0 +1,103 @@
+{
+  "updated": "2026-10-15",
+  "slug": "energy-saving-tips",
+  "nav": "Save energy",
+  "navOrder": 7,
+  "title": "Energy Saving Tips: Cut Your Gas & Electric Bills",
+  "description": "Practical energy saving tips for UK homes: heating, hot water, appliances, draughts and smart controls that cut gas, electricity and water bills this winter.",
+  "eyebrow": "Use less, pay less",
+  "h1": "Energy saving tips that actually work",
+  "intro": "The cheapest unit of energy is the one you don’t use. These are the changes with the biggest impact, starting with the free ones.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1599028274511-e02a767949a3",
+    "alt": "A white radiator under a wooden window",
+    "credit": "Julian Hochgesang",
+    "creditUrl": "https://unsplash.com/@julianhochgesang"
+  },
+  "keywords": [
+    "energy saving tips",
+    "save energy",
+    "reduce energy bills",
+    "how to save on gas",
+    "how to save electricity",
+    "boiler flow temperature",
+    "draught proofing"
+  ],
+  "cardText": "Heating, hot water, appliances and draughts: what makes a difference.",
+  "blocks": [
+    {
+      "type": "deals",
+      "title": "Free changes to make today",
+      "items": [
+        {
+          "icon": "flame",
+          "title": "Lower your boiler flow temperature",
+          "text": "Many combi boilers run hotter than needed. A lower flow temperature lets condensing boilers work more efficiently."
+        },
+        {
+          "icon": "gauge",
+          "title": "Turn the thermostat down 1°C",
+          "text": "A small change that adds up across a winter. Keep living rooms at a healthy temperature."
+        },
+        {
+          "icon": "clock",
+          "title": "Heat rooms, not the house",
+          "text": "Use timers and radiator valves so empty rooms aren’t heated."
+        },
+        {
+          "icon": "droplet",
+          "title": "Shorter showers",
+          "text": "Saves on both water and the energy to heat it, and helps with a water meter."
+        },
+        {
+          "icon": "zap",
+          "title": "Switch devices off standby",
+          "text": "TVs, consoles and chargers left on standby all use power."
+        },
+        {
+          "icon": "sun",
+          "title": "Wash at 30°C",
+          "text": "Most of a washing machine’s energy goes on heating the water."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Heating: the biggest part of most bills",
+      "html": "<ul><li><strong>Boiler flow temperature:</strong> check your manual or ask a Gas Safe engineer to set it lower. Don’t change hot water settings on system boilers with a cylinder without advice, because stored water needs to be hot enough to prevent bacteria.</li><li><strong>Radiators:</strong> bleed them, keep furniture away from them and use thermostatic radiator valves.</li><li><strong>Curtains:</strong> close them at dusk to keep heat in.</li><li><strong>Smart controls:</strong> a smart thermostat helps you heat only when you’re home.</li></ul>"
+    },
+    {
+      "h2": "Stop heat escaping",
+      "html": "<p>Draught-proofing doors, windows, letterboxes and floorboards is one of the cheapest DIY upgrades. For bigger savings, loft and cavity wall insulation help most homes; check <a href=\"/energy-grants/\">grants</a> first. The <a href=\"https://energysavingtrust.org.uk/\" rel=\"nofollow noopener\" target=\"_blank\">Energy Saving Trust</a> has detailed, independent advice and calculators.</p>"
+    },
+    {
+      "h2": "Make your tariff work harder",
+      "html": "<p>If you have a smart meter, moving washing, dishwashing and EV charging to off-peak times can save money on a <a href=\"/smart-meters-and-ev-tariffs/\">time-of-use tariff</a>. If you’re on Economy 7, run storage heaters and hot water on the cheap night rate.</p>"
+    },
+    {
+      "h2": "Save on water too",
+      "html": "<p>Fix dripping taps, fit a water-efficient shower head and only run full loads. If you’re metered, every litre saved comes off your bill. See our <a href=\"/water-bills/\">water bills guide</a> for meters and social tariffs.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What uses the most energy at home?",
+      "a": "For most UK homes, space heating and hot water are the largest share of energy use, followed by cooking, appliances and lighting."
+    },
+    {
+      "q": "Is it cheaper to leave the heating on low all day?",
+      "a": "Generally no. Heating your home only when you need it usually uses less energy. Heat pumps are different: they often work best running steadily at a lower temperature."
+    },
+    {
+      "q": "Do energy saving devices that plug into a socket work?",
+      "a": "Be wary of plug-in “energy saver” gadgets that promise big savings. Check independent advice, such as from the Energy Saving Trust or Which?, before buying."
+    }
+  ],
+  "related": [
+    "energy-grants",
+    "smart-meters-and-ev-tariffs",
+    "heat-pumps",
+    "water-bills"
+  ]
+}

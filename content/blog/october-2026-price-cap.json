@@ -1,0 +1,52 @@
+{
+  "updated": "2026-10-15",
+  "type": "post",
+  "slug": "blog/october-2026-price-cap",
+  "date": "2026-10-01",
+  "eyebrow": "Price cap news",
+  "title": "October 2026 Price Cap: What’s Changed and Why",
+  "description": "The energy price cap rose 4% to £1,723 on 1 October 2026. Here are the new rates, why gas prices rose, how the VAT cut changes things and what to do now.",
+  "h1": "October 2026 price cap: what’s changed and why",
+  "intro": "From today, the typical household bill under the cap is £1,723 a year. Gas is up; electricity is broadly flat thanks to a VAT cut.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1728509741559-44172bcd86b3",
+    "alt": "A close-up of a blue gas flame on a hob",
+    "credit": "Henning Wiekhorst",
+    "creditUrl": "https://unsplash.com/@henningwiekhorst"
+  },
+  "keywords": [
+    "price cap october 2026",
+    "energy prices october",
+    "ofgem announcement"
+  ],
+  "cardText": "New rates, the gas price rise and what to do now.",
+  "sources": [
+    {
+      "title": "Ofgem: energy price cap will rise by 4% from October 2026",
+      "url": "https://www.ofgem.gov.uk/press-release/energy-price-cap-will-rise-4-october-2026"
+    },
+    {
+      "title": "Ofgem: price cap unit rates and standing charges",
+      "url": "https://www.ofgem.gov.uk/your-energy-supply/your-energy-bill/energy-price-cap-unit-rates-and-standing-charges"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "The new rates",
+      "html": "<p>Ofgem’s cap for 1 October to 31 December 2026 is equivalent to £1,723 a year for a typical dual fuel household on Direct Debit, up £60 (about £5 a month) from £1,663. Average rates: electricity 26.32p/kWh and 54.83p a day; gas 7.97p/kWh and 29.68p a day. Full details in our <a href=\"/energy-price-cap/\">price cap guide</a>.</p>"
+    },
+    {
+      "h2": "Why gas went up",
+      "html": "<p>Ofgem says higher wholesale gas prices, linked to the conflict in the Middle East, are the main driver, with wholesale costs up about 11% over its assessment window. Gas bills rise around 8%. Electricity is broadly stable because the government has removed VAT from household electricity until 31 March 2027.</p>"
+    },
+    {
+      "h2": "What you can do",
+      "html": "<ul><li>Compare fixed deals: Ofgem says some are £100 or more below the cap. See <a href=\"/compare-energy-deals/\">how to compare deals</a>.</li><li>Check you’re on the cheapest payment method: prepay and Direct Debit beat paying on receipt of a bill.</li><li>If you’re struggling, contact your supplier now and check <a href=\"/energy-grants/\">grants and support</a>.</li></ul>"
+    }
+  ],
+  "related": [
+    "energy-price-cap",
+    "compare-energy-deals",
+    "blog/should-you-fix-energy-winter-2026"
+  ]
+}

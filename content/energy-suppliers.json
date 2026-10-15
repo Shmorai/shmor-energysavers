@@ -1,0 +1,361 @@
+{
+  "updated": "2026-10-15",
+  "slug": "energy-suppliers",
+  "nav": "Suppliers",
+  "navOrder": 2,
+  "title": "UK Energy Suppliers Compared: Every Major Firm",
+  "description": "Compare UK energy suppliers: the largest firms, green specialists, app-based challengers and prepay specialists, plus the E.ON and OVO takeover explained.",
+  "eyebrow": "Gas & electricity suppliers · Great Britain",
+  "h1": "UK energy suppliers compared",
+  "intro": "Who supplies Britain’s homes, what each type of supplier is known for, and how to check customer service before you switch. No paid rankings, just the facts and links to check.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1413882353314-73389f63b6fd",
+    "alt": "Transmission towers silhouetted under a green-tinted sky",
+    "credit": "Fré Sonneveld",
+    "creditUrl": "https://unsplash.com/@fresonneveld"
+  },
+  "keywords": [
+    "energy suppliers",
+    "uk energy suppliers",
+    "best energy supplier",
+    "big six energy",
+    "octopus energy",
+    "british gas",
+    "eon next",
+    "ovo",
+    "edf",
+    "scottish power"
+  ],
+  "cardText": "Big suppliers, green specialists, challengers and prepay firms.",
+  "blocks": [
+    {
+      "type": "specs",
+      "title": "Supplier cards",
+      "intro": "Filter by type. Links go to each supplier’s own website. We don’t rate suppliers: see Citizens Advice’s customer service rankings for that.",
+      "tabs": [
+        {
+          "id": "large",
+          "label": "Largest suppliers"
+        },
+        {
+          "id": "green",
+          "label": "Green specialists"
+        },
+        {
+          "id": "challenger",
+          "label": "Challengers"
+        },
+        {
+          "id": "prepay",
+          "label": "Prepay specialists"
+        }
+      ],
+      "items": [
+        {
+          "tag": "large",
+          "mono": "OE",
+          "kind": "Large supplier",
+          "title": "Octopus Energy",
+          "text": "Became Britain’s largest household supplier after taking on Bulb and Shell Energy’s home customers. Known for smart and EV tariffs such as Agile, Go and Tracker.",
+          "url": "https://octopus.energy/",
+          "specs": [
+            [
+              "Fuels",
+              "Gas & electricity"
+            ],
+            [
+              "Smart tariffs",
+              "Yes"
+            ],
+            [
+              "Export tariffs",
+              "Yes"
+            ]
+          ]
+        },
+        {
+          "tag": "large",
+          "mono": "BG",
+          "kind": "Large supplier",
+          "title": "British Gas",
+          "text": "The UK’s longest-established home energy brand and still the largest supplier of household gas. Owned by Centrica.",
+          "url": "https://www.britishgas.co.uk/",
+          "specs": [
+            [
+              "Fuels",
+              "Gas & electricity"
+            ],
+            [
+              "Smart tariffs",
+              "Yes"
+            ],
+            [
+              "Export tariffs",
+              "Yes"
+            ]
+          ]
+        },
+        {
+          "tag": "large",
+          "mono": "EN",
+          "kind": "Large supplier",
+          "title": "E.ON Next",
+          "text": "Formed from E.ON UK and npower’s customers. Agreed to buy OVO in 2026: the takeover was cleared by the competition regulator in October and is expected to complete later.",
+          "url": "https://www.eonnext.com/",
+          "specs": [
+            [
+              "Fuels",
+              "Gas & electricity"
+            ],
+            [
+              "Smart tariffs",
+              "Yes"
+            ],
+            [
+              "Export tariffs",
+              "Yes"
+            ]
+          ],
+          "badge": "Takeover"
+        },
+        {
+          "tag": "large",
+          "mono": "OV",
+          "kind": "Large supplier",
+          "title": "OVO Energy",
+          "text": "Grew by taking on SSE’s household customers. Being bought by E.ON: OVO says customers will be told well in advance of any change, and existing tariffs will be honoured.",
+          "url": "https://www.ovoenergy.com/",
+          "specs": [
+            [
+              "Fuels",
+              "Gas & electricity"
+            ],
+            [
+              "Smart tariffs",
+              "Yes"
+            ],
+            [
+              "Export tariffs",
+              "Yes"
+            ]
+          ],
+          "badge": "Takeover"
+        },
+        {
+          "tag": "large",
+          "mono": "ED",
+          "kind": "Large supplier",
+          "title": "EDF",
+          "text": "Part of the French state-owned EDF group, which runs Britain’s nuclear power stations. Offers fixed, EV and export tariffs.",
+          "url": "https://www.edfenergy.com/",
+          "specs": [
+            [
+              "Fuels",
+              "Gas & electricity"
+            ],
+            [
+              "Smart tariffs",
+              "Yes"
+            ],
+            [
+              "Export tariffs",
+              "Yes"
+            ]
+          ]
+        },
+        {
+          "tag": "large",
+          "mono": "SP",
+          "kind": "Large supplier",
+          "title": "ScottishPower",
+          "text": "Owned by Iberdrola and one of the UK’s biggest wind power developers. Supplies homes across Great Britain, not only Scotland.",
+          "url": "https://www.scottishpower.co.uk/",
+          "specs": [
+            [
+              "Fuels",
+              "Gas & electricity"
+            ],
+            [
+              "Smart tariffs",
+              "Yes"
+            ],
+            [
+              "Export tariffs",
+              "Yes"
+            ]
+          ]
+        },
+        {
+          "tag": "challenger",
+          "mono": "UW",
+          "kind": "Multi-service",
+          "title": "Utility Warehouse",
+          "text": "Bundles energy with broadband, mobile and insurance, with savings for taking more services. Sold through partners rather than price comparison sites.",
+          "url": "https://uw.co.uk/",
+          "specs": [
+            [
+              "Fuels",
+              "Gas & electricity"
+            ],
+            [
+              "Bundles",
+              "Broadband, mobile, insurance"
+            ]
+          ]
+        },
+        {
+          "tag": "challenger",
+          "mono": "SO",
+          "kind": "Challenger",
+          "title": "So Energy",
+          "text": "Mid-sized independent supplier that took on ESB Energy’s customers. Focus on renewable-backed electricity and simple tariffs.",
+          "url": "https://www.so.energy/",
+          "specs": [
+            [
+              "Fuels",
+              "Gas & electricity"
+            ]
+          ]
+        },
+        {
+          "tag": "challenger",
+          "mono": "OM",
+          "kind": "Challenger",
+          "title": "Outfox the Market",
+          "text": "Online-only supplier built around low overheads and simple pricing. Check which fuels and tariffs are available at your address.",
+          "url": "https://www.outfoxthemarket.co.uk/",
+          "specs": [
+            [
+              "Service",
+              "Online only"
+            ]
+          ]
+        },
+        {
+          "tag": "challenger",
+          "mono": "FU",
+          "kind": "Challenger",
+          "title": "Fuse Energy",
+          "text": "App-based newer supplier that also develops its own renewable energy projects.",
+          "url": "https://www.fuseenergy.com/",
+          "specs": [
+            [
+              "Fuels",
+              "Gas & electricity"
+            ],
+            [
+              "Service",
+              "App-based"
+            ]
+          ]
+        },
+        {
+          "tag": "green",
+          "mono": "GE",
+          "kind": "Green specialist",
+          "title": "Good Energy",
+          "text": "Long-standing green supplier that buys renewable electricity from independent UK generators. Also a big player in feed-in and export payments.",
+          "url": "https://www.goodenergy.co.uk/",
+          "specs": [
+            [
+              "Fuels",
+              "Gas & electricity"
+            ],
+            [
+              "Electricity",
+              "Renewable"
+            ]
+          ]
+        },
+        {
+          "tag": "green",
+          "mono": "EC",
+          "kind": "Green specialist",
+          "title": "Ecotricity",
+          "text": "Green energy company founded in 1995 that builds its own wind and solar parks and offers green gas.",
+          "url": "https://www.ecotricity.co.uk/",
+          "specs": [
+            [
+              "Fuels",
+              "Gas & electricity"
+            ],
+            [
+              "Electricity",
+              "Renewable"
+            ]
+          ]
+        },
+        {
+          "tag": "green",
+          "mono": "GU",
+          "kind": "Green specialist",
+          "title": "Green Energy UK",
+          "text": "Independent green supplier known for green gas and its TIDE time-of-use electricity tariff.",
+          "url": "https://www.greenenergyuk.com/",
+          "specs": [
+            [
+              "Fuels",
+              "Gas & electricity"
+            ],
+            [
+              "Smart tariffs",
+              "Yes"
+            ]
+          ]
+        },
+        {
+          "tag": "prepay",
+          "mono": "UT",
+          "kind": "Prepay specialist",
+          "title": "Utilita",
+          "text": "Specialises in smart pay-as-you-go energy, topped up by app, online or in shops.",
+          "url": "https://utilita.co.uk/",
+          "specs": [
+            [
+              "Fuels",
+              "Gas & electricity"
+            ],
+            [
+              "Payment",
+              "Smart prepay"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How the UK supplier market looks in 2026",
+      "html": "<p>A handful of large companies supply the vast majority of British homes. Octopus Energy is now the largest household supplier, followed by British Gas, E.ON Next, OVO, EDF and ScottishPower. Most of the smaller suppliers that collapsed during the 2021–22 crisis had their customers moved to one of these firms under Ofgem’s “Supplier of Last Resort” process, so you may be with a big supplier without ever having chosen it.</p><p><strong>Big news:</strong> E.ON has agreed to buy OVO. The deal received competition clearance in early October 2026. Until it completes, the two firms keep operating separately and all existing tariffs are honoured. Read <a href=\"/blog/eon-ovo-takeover/\">what the E.ON and OVO takeover means for you</a>.</p><p class=\"source-note\">Sources: <a href=\"https://www.moneysavingexpert.com/news/2026/10/eon-ovo-takeover-confirmed/\" rel=\"nofollow noopener\" target=\"_blank\">MoneySavingExpert: E.ON and OVO takeover</a> · <a href=\"https://www.which.co.uk/news/article/ovo-to-be-bought-by-eon-what-this-means-for-ovo-customers-a6x927b3PYrc\" rel=\"nofollow noopener\" target=\"_blank\">Which?: what the takeover means for OVO customers</a>.</p>"
+    },
+    {
+      "h2": "How to choose a supplier (beyond price)",
+      "html": "<ul><li><strong>Customer service:</strong> Citizens Advice publishes a regular ranking of suppliers on complaints, call waiting times and billing accuracy.</li><li><strong>The tariff, not the brand:</strong> the same supplier can be cheap on one tariff and expensive on another. Compare <a href=\"/energy-tariffs/\">tariff types</a> first.</li><li><strong>Smart and EV features:</strong> if you have an electric car, battery or solar panels, the cheapest supplier is often the one with the best <a href=\"/smart-meters-and-ev-tariffs/\">time-of-use or export tariff</a>.</li><li><strong>Green claims:</strong> “100% renewable” can mean the supplier buys certificates (REGOs) or buys directly from generators. Ask which.</li><li><strong>Payment method:</strong> Direct Debit and prepay are cheaper than paying on receipt of a bill.</li></ul><p class=\"source-note\">Sources: <a href=\"https://www.citizensadvice.org.uk/about-us/our-work/policy/policy-research-topics/energy-policy-research-and-consultation-responses/energy-consultation-responses/compare-domestic-energy-suppliers-customer-service/\" rel=\"nofollow noopener\" target=\"_blank\">Citizens Advice: compare energy suppliers’ customer service</a> · <a href=\"https://www.citizensadvice.org.uk/consumer/energy/energy-supply/\" rel=\"nofollow noopener\" target=\"_blank\">Citizens Advice: energy supply</a>.</p>"
+    },
+    {
+      "h2": "If something goes wrong with your supplier",
+      "html": "<p>Complain to the supplier first. If it isn’t resolved within eight weeks, or you get a final response you’re unhappy with, you can take it to the free <a href=\"https://www.energyombudsman.org/\" rel=\"nofollow noopener\" target=\"_blank\">Energy Ombudsman</a>. If your supplier goes bust, Ofgem appoints a new one and your supply continues; credit balances are protected.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is the biggest energy supplier in the UK?",
+      "a": "Octopus Energy is currently the largest household energy supplier in Great Britain, with British Gas second. If E.ON completes its purchase of OVO, the combined group would be one of the largest."
+    },
+    {
+      "q": "What happens to my OVO account in the E.ON takeover?",
+      "a": "Nothing changes until the deal completes. OVO and E.ON keep operating separately, existing tariffs (including fixes) are honoured, and your supply won’t be interrupted. OVO says it will contact customers well before anything changes."
+    },
+    {
+      "q": "Does EnergySavers rank suppliers?",
+      "a": "No. We don’t publish paid or invented rankings. For customer service, use Citizens Advice’s supplier ranking. For price, compare tariffs for your own usage."
+    }
+  ],
+  "related": [
+    "energy-tariffs",
+    "switch-energy-supplier",
+    "compare-energy-deals",
+    "energy-price-cap"
+  ]
+}

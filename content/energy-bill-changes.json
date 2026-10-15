@@ -1,0 +1,112 @@
+{
+  "updated": "2026-10-15",
+  "slug": "energy-bill-changes",
+  "nav": "What’s changing",
+  "navOrder": 8,
+  "title": "Energy Bill Changes 2026–2030: Dates & New Laws",
+  "description": "Every upcoming change to UK energy and water bills: the Autumn Budget, January price cap, VAT, Warm Home Discount, water reform and landlord EPC rules to 2030.",
+  "eyebrow": "Budgets · Laws · Price changes",
+  "h1": "What’s changing for energy and water bills",
+  "intro": "A calendar of the budgets, price cap dates, laws and rule changes that could affect your bills, updated as announcements are made.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1624651030272-d38c3d8bb9fe",
+    "alt": "Big Ben and the Houses of Parliament in London at sunset",
+    "credit": "Peter Kostov",
+    "creditUrl": "https://unsplash.com/@strippedlight"
+  },
+  "keywords": [
+    "energy bill changes",
+    "autumn budget 2026 energy",
+    "price cap january 2027",
+    "vat on electricity",
+    "energy laws",
+    "epc rules landlords",
+    "water reform",
+    "upcoming energy changes"
+  ],
+  "cardText": "Budget, price cap dates, VAT, water reform and EPC rules.",
+  "blocks": [
+    {
+      "type": "steps",
+      "title": "Key dates",
+      "items": [
+        {
+          "icon": "calendar",
+          "title": "28 Oct 2026: Autumn Budget",
+          "text": "Reports suggest extra bill support for lower-income households and a look at levies. <a href=\"/blog/autumn-budget-2026-energy/\">What to watch</a>."
+        },
+        {
+          "icon": "zap",
+          "title": "Late Nov 2026: January cap set",
+          "text": "Ofgem announces the cap for 1 January to 31 March 2027. Forecasts point up."
+        },
+        {
+          "icon": "repeat",
+          "title": "By end 2026: E.ON–OVO",
+          "text": "The takeover is expected to complete. Tariffs are honoured."
+        },
+        {
+          "icon": "percent",
+          "title": "31 Mar 2027: VAT returns",
+          "text": "The 0% VAT rate on household electricity in Great Britain is due to end, back to 5%."
+        },
+        {
+          "icon": "droplet",
+          "title": "Apr 2027: new water bills",
+          "text": "Annual water charges change; water reform legislation continues."
+        },
+        {
+          "icon": "key",
+          "title": "1 Oct 2030: rental EPC C",
+          "text": "Private landlords in England and Wales must reach EPC C, with exemptions and a £10,000 cost cap."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Autumn Budget, 28 October 2026",
+      "html": "<p>The Chancellor delivers the Autumn Budget on Wednesday 28 October 2026. Pre-Budget reports suggest the Treasury is considering extra help for households on benefits and has been under pressure to cut levies on bills, but nothing is confirmed until the statement. We’ll update this page on the day.</p><p>Already in place from the last Budget: from April 2026 the government moved most of the cost of the Renewables Obligation off household bills and into general taxation for three years, and ended new ECO funding. Ofgem’s April 2026 cap fell 7% partly as a result.</p><p class=\"source-note\">Sources: <a href=\"https://www.which.co.uk/news/article/autumn-budget-2026-when-is-it-and-what-will-it-contain-aQqC47O24jnl\" rel=\"nofollow noopener\" target=\"_blank\">Which?: Autumn Budget 2026</a>.</p>"
+    },
+    {
+      "h2": "VAT on electricity: 0% until 31 March 2027",
+      "html": "<p>From 1 October 2026 to 31 March 2027, household electricity in Great Britain has a temporary 0% VAT rate instead of 5%. It applies automatically, including to fixed tariffs. Gas and other domestic fuels stay at 5%, and the cut doesn’t apply in Northern Ireland. The government estimates it saves a typical household around £45 a year. Read <a href=\"/blog/electricity-vat-cut-explained/\">our VAT cut explainer</a>.</p><p class=\"source-note\">Sources: <a href=\"https://www.gov.uk/government/publications/revenue-and-customs-brief-10-2026-temporary-zero-rate-of-vat-for-domestic-electricity-in-great-britain/temporary-zero-rate-of-vat-for-domestic-electricity-in-great-britain\" rel=\"nofollow noopener\" target=\"_blank\">HMRC Revenue and Customs Brief 10 (2026)</a>.</p>"
+    },
+    {
+      "h2": "Price cap: January to March 2027",
+      "html": "<p>Ofgem is expected to announce the next cap in late November 2026. Cornwall Insight’s September forecast was around £1,872 a year for a typical household, higher than October’s £1,723, but forecasts change with wholesale gas prices. See <a href=\"/energy-price-cap/\">the price cap guide</a>.</p>"
+    },
+    {
+      "h2": "Ofgem rule changes",
+      "html": "<ul><li><strong>Lower standing charge pilot:</strong> a one-year pilot from April 2026, with EDF, E.ON, Octopus and British Gas offering tariffs with lower daily charges and higher unit rates.</li><li><strong>Energy debt relief:</strong> a scheme to write off some historic energy debt for eligible low-income households, with the cost recovered across bills.</li></ul><p class=\"source-note\">Sources: <a href=\"https://www.ofgem.gov.uk/policy/lower-standing-charge-tariffs-next-steps\" rel=\"nofollow noopener\" target=\"_blank\">Ofgem: lower standing charge tariffs, next steps</a>.</p>"
+    },
+    {
+      "h2": "Water reform",
+      "html": "<p>Ofwat is due to be abolished and replaced by a single water regulator, following the 2025 Independent Water Commission and the January 2026 white paper. Legislation is still to complete its passage through Parliament. <a href=\"/blog/water-bills-2026-reform/\">Read more</a>.</p><p class=\"source-note\">Sources: <a href=\"https://www.gov.uk/government/news/ofwat-to-be-abolished-in-biggest-overhaul-of-water-since-privatisation\" rel=\"nofollow noopener\" target=\"_blank\">GOV.UK: Ofwat to be abolished</a> · <a href=\"https://commonslibrary.parliament.uk/research-briefings/cbp-10998/\" rel=\"nofollow noopener\" target=\"_blank\">House of Commons Library: A new vision for water</a>.</p>"
+    },
+    {
+      "h2": "Homes and landlords",
+      "html": "<ul><li><strong>Private rented homes:</strong> the government has confirmed landlords in England and Wales must reach EPC band C by 1 October 2030, unless exempt, with a £10,000 cost cap. <a href=\"/blog/landlords-epc-c-2030/\">Landlord guide</a>.</li><li><strong>EPC reform:</strong> a new style of domestic Energy Performance Certificate is planned, with new metrics.</li><li><strong>Boiler Upgrade Scheme:</strong> the £9,000 rate for eligible off-gas homes runs until 31 March 2027.</li></ul><p class=\"source-note\">Sources: <a href=\"https://www.gov.uk/government/consultations/improving-the-energy-performance-of-privately-rented-homes-2025-update\" rel=\"nofollow noopener\" target=\"_blank\">GOV.UK: Improving the energy performance of privately rented homes</a> · <a href=\"https://www.gov.uk/apply-boiler-upgrade-scheme\" rel=\"nofollow noopener\" target=\"_blank\">GOV.UK: Boiler Upgrade Scheme</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will energy bills go up in January 2027?",
+      "a": "Forecasts suggest the January cap will be higher than October’s, but Ofgem won’t confirm it until late November 2026. If you’re worried, compare fixed deals against the current cap."
+    },
+    {
+      "q": "When does the electricity VAT cut end?",
+      "a": "The 0% rate is due to end on 31 March 2027, when VAT returns to 5% unless the government extends it."
+    },
+    {
+      "q": "What energy changes are in the Autumn Budget?",
+      "a": "The Budget is on 28 October 2026. Until then, only reports and speculation exist. We will update this page with confirmed measures."
+    }
+  ],
+  "related": [
+    "energy-price-cap",
+    "energy-grants",
+    "water-bills",
+    "compare-energy-deals"
+  ]
+}

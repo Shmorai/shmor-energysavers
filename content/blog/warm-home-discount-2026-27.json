@@ -1,0 +1,57 @@
+{
+  "updated": "2026-10-15",
+  "type": "post",
+  "slug": "blog/warm-home-discount-2026-27",
+  "date": "2026-10-06",
+  "eyebrow": "Help with bills",
+  "title": "Warm Home Discount 2026/27: Who Gets £150?",
+  "description": "The £150 Warm Home Discount has reopened for winter 2026 to 2027. Who qualifies in England, Wales and Scotland, how it’s paid and other help to claim.",
+  "h1": "Warm Home Discount 2026/27: who gets £150?",
+  "intro": "The scheme reopened in October for winter 2026 to 2027. Most eligible households don’t need to do anything, but it’s worth checking.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1599028274511-e02a767949a3",
+    "alt": "A white radiator under a wooden window",
+    "credit": "Julian Hochgesang",
+    "creditUrl": "https://unsplash.com/@julianhochgesang"
+  },
+  "keywords": [
+    "warm home discount 2026",
+    "warm home discount eligibility",
+    "£150 energy discount",
+    "winter fuel payment 2026"
+  ],
+  "cardText": "Eligibility, how it’s paid and other winter help.",
+  "sources": [
+    {
+      "title": "GOV.UK: Warm Home Discount",
+      "url": "https://www.gov.uk/the-warm-home-discount-scheme"
+    },
+    {
+      "title": "GOV.UK: Winter Fuel Payment",
+      "url": "https://www.gov.uk/winter-fuel-payment"
+    },
+    {
+      "title": "GOV.UK: Cold Weather Payment",
+      "url": "https://www.gov.uk/cold-weather-payment"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How it works",
+      "html": "<p>The Warm Home Discount is £150 off your electricity bill, not a cash payment. If you prepay, your supplier may give you a top-up voucher instead. If your supplier provides both fuels, you may be able to have it on your gas bill.</p>"
+    },
+    {
+      "h2": "Who qualifies",
+      "html": "<ul><li><strong>England and Wales:</strong> households getting the Guarantee Credit part of Pension Credit, and low-income households on qualifying means-tested benefits. Most get it automatically and receive a letter.</li><li><strong>Scotland:</strong> you may need to apply to your energy supplier.</li><li><strong>Northern Ireland:</strong> the scheme isn’t available.</li></ul>"
+    },
+    {
+      "h2": "Other help this winter",
+      "html": "<ul><li><strong>Winter Fuel Payment:</strong> £100 to £300 if you were born on or before 27 June 1960 (taken back if your income is over £35,000).</li><li><strong>Cold Weather Payment:</strong> for each 7-day cold spell, if you get certain benefits.</li><li>More in our <a href=\"/energy-grants/\">grants and help guide</a>.</li></ul>"
+    }
+  ],
+  "related": [
+    "energy-grants",
+    "energy-saving-tips",
+    "energy-bill-changes"
+  ]
+}

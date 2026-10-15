@@ -1,0 +1,27 @@
+{
+  "updated": "2026-10-15",
+  "slug": "blog",
+  "type": "blog",
+  "nav": "News",
+  "navOrder": 9,
+  "title": "UK Energy News & Bill-Saving Blog | EnergySavers",
+  "description": "The latest UK energy and water bill news explained: price cap changes, the Budget, VAT, supplier takeovers, grants and new rules, with what each means for you.",
+  "eyebrow": "News · Analysis · Guides",
+  "h1": "Energy news and bill-saving guides",
+  "intro": "Plain-English explainers on the changes affecting UK energy and water bills, checked against Ofgem, GOV.UK and regulators.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1466611653911-95081537e5b7",
+    "alt": "A wind turbine on a grassy field at golden hour",
+    "credit": "Karsten Würth",
+    "creditUrl": "https://unsplash.com/@karsten_wuerth"
+  },
+  "search": false,
+  "listTitle": "Latest news and guides",
+  "keywords": [
+    "energy news",
+    "energy bills news",
+    "price cap news",
+    "uk energy blog"
+  ],
+  "cardText": "Price cap, Budget, VAT, takeovers and grants explained."
+}

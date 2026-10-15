@@ -1,0 +1,94 @@
+{
+  "updated": "2026-10-15",
+  "slug": "compare-energy-deals",
+  "nav": "Deals",
+  "navOrder": 4,
+  "title": "How to Compare Energy Deals in the UK (2026)",
+  "description": "How to compare UK gas and electricity deals: check prices against the Ofgem cap, standing charges, exit fees and your real usage before you fix or switch.",
+  "eyebrow": "Compare gas & electricity deals",
+  "h1": "How to compare energy deals",
+  "intro": "A deal is only a good deal if it beats what you’d pay anyway. Here’s how to check any fixed or variable tariff against the price cap and your real usage.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1642961597907-fc6fbff01720",
+    "alt": "A pile of British pound coins on a table",
+    "credit": "Sarah Agnew",
+    "creditUrl": "https://unsplash.com/@sarahagnewphotos"
+  },
+  "keywords": [
+    "compare energy deals",
+    "energy deals",
+    "cheapest energy deal",
+    "best fixed energy deal",
+    "compare gas and electricity",
+    "should i fix my energy"
+  ],
+  "cardText": "Check any deal against the cap, standing charges and exit fees.",
+  "partnersTitle": "Compare live energy deals",
+  "blocks": [
+    {
+      "type": "steps",
+      "title": "The five-minute deal check",
+      "items": [
+        {
+          "icon": "receipt",
+          "title": "Get your annual kWh",
+          "text": "From your bill or app. Use kWh, not pounds: it’s the only fair way to compare."
+        },
+        {
+          "icon": "zap",
+          "title": "Note both rates",
+          "text": "Unit rate and standing charge, for gas and electricity separately."
+        },
+        {
+          "icon": "scale",
+          "title": "Benchmark the cap",
+          "text": "Compare with the <a href=\"/energy-price-cap/\">current cap</a> for your region and payment method."
+        },
+        {
+          "icon": "calendar",
+          "title": "Check the term",
+          "text": "How long is it fixed, and what’s the exit fee per fuel?"
+        },
+        {
+          "icon": "check",
+          "title": "Read the extras",
+          "text": "Smart meter requirement, online-only service, bundles or perks."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Work out what a deal really costs you",
+      "html": "<p>Annual cost = (your kWh × unit rate) + (365 × standing charge), for each fuel. Do the same with price cap rates to see the saving. A deal that looks cheap per kWh can lose its advantage if the standing charge is high and your usage is low.</p><p class=\"callout\">Example method: if you use 2,700 kWh of electricity a year, multiply by the unit rate in pounds, then add 365 days of standing charge. Repeat for gas. Compare the total with the same calculation at <a href=\"/energy-price-cap/\">price cap rates</a>.</p>"
+    },
+    {
+      "h2": "Should you fix this winter?",
+      "html": "<p>Fixing protects you from rises but means you won’t benefit if prices fall. With forecasters expecting the January 2027 cap to be higher than October’s, many households are looking at fixes. Ofgem said in August that fixes were available at £100 or more below the October cap. Things to weigh up:</p><ul><li>Is the fix at or below the current cap? If it’s above, you’re paying for insurance against rises.</li><li>How long is the term, and what are the exit fees?</li><li>Remember the 0% VAT on electricity is due to end on 31 March 2027; fixed prices usually move with VAT changes.</li></ul><p>Read our news analysis: <a href=\"/blog/should-you-fix-energy-winter-2026/\">should you fix your energy this winter?</a></p><p class=\"source-note\">Sources: <a href=\"https://www.ofgem.gov.uk/press-release/energy-price-cap-will-rise-4-october-2026\" rel=\"nofollow noopener\" target=\"_blank\">Ofgem: energy price cap will rise by 4% from October 2026</a>.</p>"
+    },
+    {
+      "h2": "Where to find live deals",
+      "html": "<p>Prices change daily, so we don’t publish tariff prices that could be out of date. Use an Ofgem-accredited price comparison site (accredited under the Confidence Code), or check suppliers’ own websites. Some suppliers’ cheapest deals are only available direct or to existing customers.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why don’t you list live tariff prices?",
+      "a": "Energy prices change daily and vary by region, meter and payment method. Rather than show prices that may be wrong, we explain how to compare and point you to accredited comparison sites and suppliers."
+    },
+    {
+      "q": "Is switching energy supplier free?",
+      "a": "Yes. Switching itself is free. You may pay an exit fee if you leave a fixed deal early, except in the last 49 days of the fix."
+    },
+    {
+      "q": "Should I switch if I have a smart meter?",
+      "a": "Yes, you can. Most smart meters keep working in smart mode after a switch, and newer meters connect to the national smart network."
+    }
+  ],
+  "related": [
+    "energy-tariffs",
+    "switch-energy-supplier",
+    "energy-price-cap",
+    "energy-suppliers"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "updated": "2026-10-15",
+  "type": "post",
+  "slug": "blog/eon-ovo-takeover",
+  "date": "2026-10-09",
+  "eyebrow": "Supplier news",
+  "title": "E.ON and OVO Takeover: What It Means for Customers",
+  "description": "E.ON is buying OVO after competition clearance in October 2026. What happens to OVO tariffs, credit, direct debits and switching while the deal completes.",
+  "h1": "E.ON and OVO takeover: what it means for you",
+  "intro": "E.ON’s purchase of OVO has been cleared by the competition regulator. If you’re an OVO customer, here’s what changes, and what doesn’t.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1413882353314-73389f63b6fd",
+    "alt": "Transmission towers silhouetted under a green-tinted sky",
+    "credit": "Fré Sonneveld",
+    "creditUrl": "https://unsplash.com/@fresonneveld"
+  },
+  "keywords": [
+    "eon ovo takeover",
+    "ovo eon",
+    "ovo customers",
+    "ovo energy news"
+  ],
+  "cardText": "Tariffs, credit and switching during the takeover.",
+  "sources": [
+    {
+      "title": "MoneySavingExpert: E.ON and OVO takeover",
+      "url": "https://www.moneysavingexpert.com/news/2026/10/eon-ovo-takeover-confirmed/"
+    },
+    {
+      "title": "Which?: what the takeover means for OVO customers",
+      "url": "https://www.which.co.uk/news/article/ovo-to-be-bought-by-eon-what-this-means-for-ovo-customers-a6x927b3PYrc"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What’s happening",
+      "html": "<p>E.ON has agreed to buy OVO, and the deal received competition clearance in early October 2026. Reports put E.ON’s household customers at around 5.6 million and OVO’s at around 4 million, which would make the combined business one of Britain’s largest suppliers. Completion is expected later, with Which? suggesting by the end of the year.</p>"
+    },
+    {
+      "h2": "If you’re with OVO",
+      "html": "<ul><li>Nothing changes until the deal completes: same account, payments and contact details.</li><li>Your tariff, including any fix, is honoured until its end date.</li><li>Your supply won’t be interrupted.</li><li>You can still switch away if you find a better deal (check exit fees on fixes).</li><li>Take a meter reading and a screenshot of your balance, so you have a record of any credit or debt.</li></ul>"
+    },
+    {
+      "h2": "Should you switch now?",
+      "html": "<p>Only if there’s a better deal for you. Compare tariffs as usual using our <a href=\"/compare-energy-deals/\">deal checklist</a> and see all <a href=\"/energy-suppliers/\">UK suppliers</a>.</p>"
+    }
+  ],
+  "related": [
+    "energy-suppliers",
+    "switch-energy-supplier",
+    "compare-energy-deals"
+  ]
+}

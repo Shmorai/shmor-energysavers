@@ -1,0 +1,50 @@
+{
+  "updated": "2026-10-15",
+  "type": "post",
+  "slug": "blog/landlords-epc-c-2030",
+  "date": "2026-10-10",
+  "eyebrow": "Landlords & renters",
+  "title": "Landlords and EPC C by 2030: What’s Been Decided",
+  "description": "Private landlords in England and Wales must reach EPC C by 1 October 2030. The confirmed rules, the £10,000 cost cap, exemptions and what renters can expect.",
+  "h1": "Landlords and EPC C by 2030: what’s been decided",
+  "intro": "The government has confirmed new minimum energy efficiency standards for private rented homes. Here’s the timetable and what it means for landlords and tenants.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1780554193584-2e4da0bd7b36",
+    "alt": "A street lined with brick terraced houses and parked cars",
+    "credit": "William V",
+    "creditUrl": "https://unsplash.com/@william_vdg"
+  },
+  "keywords": [
+    "epc c 2030",
+    "landlord epc rules",
+    "mees 2030",
+    "private rented energy efficiency",
+    "epc changes"
+  ],
+  "cardText": "The 2030 deadline, cost cap and exemptions.",
+  "sources": [
+    {
+      "title": "GOV.UK: Improving the energy performance of privately rented homes",
+      "url": "https://www.gov.uk/government/consultations/improving-the-energy-performance-of-privately-rented-homes-2025-update"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "The rules",
+      "html": "<ul><li>Private rented homes in England and Wales must reach EPC band C by <strong>1 October 2030</strong>, unless a valid exemption applies.</li><li>A single deadline for all tenancies: the earlier proposal for 2028 for new tenancies was dropped.</li><li>A cost cap of <strong>£10,000</strong> per property, with exemptions valid for 10 years.</li><li>Homes already rated C under the current rating can count as compliant until their certificate expires, for certificates issued before 1 October 2029.</li><li>Short-term lets are outside the rules for now.</li></ul>"
+    },
+    {
+      "h2": "What landlords should do now",
+      "html": "<p>Check your current EPC, get advice on the cheapest route to band C (often insulation, heating controls or a heat pump), and look at the <a href=\"/heat-pumps/\">Boiler Upgrade Scheme</a> and Warm Homes Plan support. The government says low-interest loans will be available.</p>"
+    },
+    {
+      "h2": "What renters can expect",
+      "html": "<p>Better-insulated homes should be cheaper to heat. Until then, tenants who pay their own energy bills can usually <a href=\"/switch-energy-supplier/\">switch supplier</a> and use our <a href=\"/energy-saving-tips/\">energy saving tips</a>.</p>"
+    }
+  ],
+  "related": [
+    "energy-bill-changes",
+    "energy-grants",
+    "heat-pumps"
+  ]
+}

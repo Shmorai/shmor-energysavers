@@ -1,0 +1,318 @@
+{
+  "updated": "2026-10-15",
+  "slug": "energy-tariffs",
+  "nav": "Tariffs",
+  "navOrder": 3,
+  "title": "Energy Tariff Types Explained: UK Tariff Cards",
+  "description": "Fixed, variable, tracker, time-of-use, Economy 7, EV, prepay, green and export tariffs explained with simple cards, so you can pick the right UK energy deal.",
+  "eyebrow": "Tariff cards",
+  "h1": "Energy tariff types explained",
+  "intro": "Every energy deal in Britain is one of a few tariff types. Pick the right type for how you live, then compare suppliers’ prices for it.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1604177420682-0c840feb01de",
+    "alt": "A black and white electricity meter",
+    "credit": "Jon Moore",
+    "creditUrl": "https://unsplash.com/@thejmoore"
+  },
+  "keywords": [
+    "energy tariffs",
+    "fixed tariff",
+    "variable tariff",
+    "tracker tariff",
+    "economy 7",
+    "ev tariff",
+    "time of use tariff",
+    "prepayment tariff",
+    "green tariff",
+    "export tariff"
+  ],
+  "cardText": "Fixed, variable, tracker, time-of-use, EV, prepay and more.",
+  "blocks": [
+    {
+      "type": "specs",
+      "title": "Tariff cards",
+      "intro": "Tap a filter to narrow it down.",
+      "tabs": [
+        {
+          "id": "core",
+          "label": "Everyday"
+        },
+        {
+          "id": "smart",
+          "label": "Smart & EV"
+        },
+        {
+          "id": "special",
+          "label": "Special meters & export"
+        }
+      ],
+      "items": [
+        {
+          "tag": "core",
+          "mono": "SV",
+          "kind": "Default",
+          "title": "Standard variable",
+          "text": "The tariff you’re on if you never chose one or your fix ended. Rates are limited by the Ofgem price cap and change every three months.",
+          "specs": [
+            [
+              "Price changes",
+              "Every 3 months"
+            ],
+            [
+              "Exit fees",
+              "None"
+            ],
+            [
+              "Watch for",
+              "Rises at each cap"
+            ]
+          ],
+          "badge": "Price capped",
+          "href": "/energy-price-cap/",
+          "more": "Read the guide"
+        },
+        {
+          "tag": "core",
+          "mono": "FX",
+          "kind": "Fixed",
+          "title": "Fixed tariff",
+          "text": "Your unit rates and standing charges stay the same for the term. You still pay for what you use.",
+          "specs": [
+            [
+              "Typical term",
+              "12–24 months"
+            ],
+            [
+              "Exit fees",
+              "Common, none in last 49 days"
+            ],
+            [
+              "Watch for",
+              "Fixing above the cap"
+            ]
+          ],
+          "href": "/compare-energy-deals/",
+          "more": "Read the guide"
+        },
+        {
+          "tag": "core",
+          "mono": "PP",
+          "kind": "Pay as you go",
+          "title": "Prepayment",
+          "text": "Top up before you use energy, by smart meter app, key or card. Ofgem says prepay currently pays the lowest cap rates.",
+          "specs": [
+            [
+              "Price changes",
+              "With the cap"
+            ],
+            [
+              "Debt",
+              "Can switch with up to £500 debt"
+            ],
+            [
+              "Watch for",
+              "Self-disconnection"
+            ]
+          ],
+          "href": "/energy-grants/",
+          "more": "Read the guide"
+        },
+        {
+          "tag": "core",
+          "mono": "GR",
+          "kind": "Green",
+          "title": "Green / renewable",
+          "text": "Electricity matched with renewable generation. Some suppliers buy certificates, others buy power directly from generators.",
+          "specs": [
+            [
+              "Price",
+              "Varies"
+            ],
+            [
+              "Ask",
+              "REGO-backed or direct?"
+            ]
+          ]
+        },
+        {
+          "tag": "core",
+          "mono": "LS",
+          "kind": "Pilot",
+          "title": "Lower standing charge",
+          "text": "An Ofgem pilot from April 2026 with EDF, E.ON, Octopus and British Gas: lower daily charge, higher unit rate. Can suit very low users.",
+          "specs": [
+            [
+              "Available",
+              "Selected suppliers"
+            ],
+            [
+              "Suits",
+              "Low usage"
+            ],
+            [
+              "Watch for",
+              "Higher unit rate"
+            ]
+          ],
+          "badge": "Pilot"
+        },
+        {
+          "tag": "smart",
+          "mono": "TR",
+          "kind": "Smart",
+          "title": "Tracker",
+          "text": "Rates follow wholesale prices, typically changing daily, usually with a cap on the maximum. Needs a smart meter.",
+          "specs": [
+            [
+              "Price changes",
+              "Daily"
+            ],
+            [
+              "Exit fees",
+              "Usually none"
+            ],
+            [
+              "Watch for",
+              "Wholesale spikes"
+            ]
+          ]
+        },
+        {
+          "tag": "smart",
+          "mono": "TU",
+          "kind": "Smart",
+          "title": "Time-of-use",
+          "text": "Different prices at different times. Some have fixed peak and off-peak bands, others change every half hour (agile tariffs).",
+          "specs": [
+            [
+              "Meter",
+              "Smart"
+            ],
+            [
+              "Suits",
+              "Flexible usage"
+            ],
+            [
+              "Watch for",
+              "Peak prices 4–7pm"
+            ]
+          ],
+          "href": "/smart-meters-and-ev-tariffs/",
+          "more": "Read the guide"
+        },
+        {
+          "tag": "smart",
+          "mono": "EV",
+          "kind": "Smart",
+          "title": "EV tariff",
+          "text": "Very cheap overnight electricity windows for charging an electric car, sometimes for the whole home.",
+          "specs": [
+            [
+              "Meter",
+              "Smart"
+            ],
+            [
+              "Suits",
+              "EV owners"
+            ],
+            [
+              "Watch for",
+              "Higher daytime rate"
+            ]
+          ],
+          "href": "/smart-meters-and-ev-tariffs/",
+          "more": "Read the guide"
+        },
+        {
+          "tag": "smart",
+          "mono": "HP",
+          "kind": "Smart",
+          "title": "Heat pump tariff",
+          "text": "Cheaper electricity for homes heating with a heat pump, either a flat discount or cheaper set times.",
+          "specs": [
+            [
+              "Meter",
+              "Smart"
+            ],
+            [
+              "Suits",
+              "Heat pump homes"
+            ]
+          ],
+          "href": "/heat-pumps/",
+          "more": "Read the guide"
+        },
+        {
+          "tag": "special",
+          "mono": "E7",
+          "kind": "Multi-rate",
+          "title": "Economy 7 / Economy 10",
+          "text": "Seven (or ten) hours of cheaper night electricity. Designed for storage heaters and hot water. Needs a multi-rate meter.",
+          "specs": [
+            [
+              "Meter",
+              "Multi-rate"
+            ],
+            [
+              "Suits",
+              "Storage heaters"
+            ],
+            [
+              "Watch for",
+              "Pricey daytime units"
+            ]
+          ]
+        },
+        {
+          "tag": "special",
+          "mono": "EX",
+          "kind": "Export",
+          "title": "Export tariff (SEG)",
+          "text": "Get paid for electricity your solar panels send to the grid. Larger suppliers must offer a Smart Export Guarantee tariff.",
+          "specs": [
+            [
+              "Needs",
+              "Export meter + MCS kit"
+            ],
+            [
+              "Paid",
+              "Per kWh exported"
+            ]
+          ],
+          "href": "/solar-panels/",
+          "more": "Read the guide"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Which tariff type should you choose?",
+      "html": "<ul><li><strong>You want certainty:</strong> a <strong>fixed tariff</strong>, ideally priced at or below the <a href=\"/energy-price-cap/\">current price cap</a>.</li><li><strong>You think prices will fall:</strong> stay on <strong>standard variable</strong> or a <strong>tracker</strong>, and accept that rates can also rise.</li><li><strong>You have an EV, battery or heat pump:</strong> a <strong>time-of-use, EV or heat pump tariff</strong> usually beats everything else if you can shift usage.</li><li><strong>You use very little energy:</strong> look at the Ofgem <strong>lower standing charge</strong> pilot tariffs.</li><li><strong>You have storage heaters:</strong> check you are on <strong>Economy 7 or 10</strong>, and that your heaters charge during the cheap hours.</li></ul><p class=\"source-note\">Sources: <a href=\"https://www.ofgem.gov.uk/policy/lower-standing-charge-tariffs-next-steps\" rel=\"nofollow noopener\" target=\"_blank\">Ofgem: lower standing charge tariffs, next steps</a> · <a href=\"https://www.ofgem.gov.uk/environmental-and-social-schemes/smart-export-guarantee-seg\" rel=\"nofollow noopener\" target=\"_blank\">Ofgem: Smart Export Guarantee</a>.</p>"
+    },
+    {
+      "h2": "Unit rates vs standing charges",
+      "html": "<p>Every tariff has two parts. The <strong>unit rate</strong> is what you pay per kWh. The <strong>standing charge</strong> is a fixed daily amount that covers network and supplier costs, whether you use energy or not. A tariff with a low unit rate but a high standing charge can cost more if you use little energy, so always compare both for your own annual usage.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are fixed tariffs cheaper than the price cap?",
+      "a": "Sometimes. In August 2026 Ofgem said fixes were available at £100 or more below the October cap. Prices change daily, so compare any fix with the current cap and with forecasts for the next one."
+    },
+    {
+      "q": "Can I leave a fixed tariff early?",
+      "a": "Yes, but you may pay an exit fee. Suppliers can’t charge exit fees if you switch in the last 49 days of a fixed deal."
+    },
+    {
+      "q": "Do I need a smart meter for a time-of-use tariff?",
+      "a": "Yes. Tracker, agile, EV and most time-of-use tariffs need a smart meter that sends half-hourly readings."
+    }
+  ],
+  "related": [
+    "compare-energy-deals",
+    "smart-meters-and-ev-tariffs",
+    "energy-price-cap",
+    "energy-suppliers"
+  ]
+}

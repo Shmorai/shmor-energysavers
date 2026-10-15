@@ -1,0 +1,49 @@
+{
+  "updated": "2026-10-15",
+  "type": "post",
+  "slug": "blog/electricity-vat-cut-explained",
+  "date": "2026-10-02",
+  "eyebrow": "Tax & bills",
+  "title": "0% VAT on Electricity Bills Explained (Oct 2026)",
+  "description": "VAT on household electricity in Great Britain is 0% from 1 October 2026 to 31 March 2027. Who gets it, whether fixed tariffs are covered and what happens next.",
+  "h1": "0% VAT on electricity: what it means for your bill",
+  "intro": "Household electricity in England, Scotland and Wales has a temporary zero rate of VAT until 31 March 2027. Here’s how it works.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1545259741-2ea3ebf61fa3",
+    "alt": "A smart thermostat on a wall",
+    "credit": "Dan LeFebvre",
+    "creditUrl": "https://unsplash.com/@danlefeb"
+  },
+  "keywords": [
+    "vat on electricity",
+    "electricity vat cut",
+    "0% vat energy",
+    "vat energy bills 2026"
+  ],
+  "cardText": "Who gets the VAT cut, fixed tariffs and when it ends.",
+  "sources": [
+    {
+      "title": "HMRC Revenue and Customs Brief 10 (2026)",
+      "url": "https://www.gov.uk/government/publications/revenue-and-customs-brief-10-2026-temporary-zero-rate-of-vat-for-domestic-electricity-in-great-britain/temporary-zero-rate-of-vat-for-domestic-electricity-in-great-britain"
+    },
+    {
+      "title": "Ofgem: energy price cap will rise by 4% from October 2026",
+      "url": "https://www.ofgem.gov.uk/press-release/energy-price-cap-will-rise-4-october-2026"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "The key facts",
+      "html": "<ul><li>Announced on 21 July 2026; applies from 1 October 2026 to 31 March 2027.</li><li>Covers electricity for domestic use in Great Britain. It does not apply in Northern Ireland.</li><li>Gas and other domestic fuels stay at 5% VAT.</li><li>It’s applied automatically by your supplier, including on fixed tariffs.</li><li>The government estimates a typical household saves around £45 a year.</li></ul>"
+    },
+    {
+      "h2": "What happens in April 2027?",
+      "html": "<p>Unless the government extends it, VAT on household electricity goes back to 5% on 1 April 2027. That would push electricity prices up by about 5% on that date, on top of any change in the price cap. Keep an eye on our <a href=\"/energy-bill-changes/\">what’s changing</a> calendar.</p>"
+    }
+  ],
+  "related": [
+    "energy-bill-changes",
+    "energy-price-cap",
+    "blog/autumn-budget-2026-energy"
+  ]
+}

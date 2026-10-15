@@ -1,0 +1,56 @@
+{
+  "updated": "2026-10-15",
+  "slug": "solar-panels",
+  "title": "Solar Panels UK: Costs to Check, Export & Batteries",
+  "description": "Thinking about solar panels? What to check in a quote, how the Smart Export Guarantee pays you, whether a battery is worth it and finding an MCS installer.",
+  "eyebrow": "Generate your own",
+  "h1": "Solar panels for your home",
+  "intro": "Solar panels can cut your electricity bill and earn money from exports. Here’s how to judge a quote and get the most from them.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1655300256335-beef51a914fe",
+    "alt": "A house with solar panels on the roof",
+    "credit": "Watt A Lot",
+    "creditUrl": "https://unsplash.com/@wattalot"
+  },
+  "keywords": [
+    "solar panels",
+    "solar panel cost",
+    "solar panels uk",
+    "solar battery",
+    "smart export guarantee",
+    "seg tariff",
+    "mcs installer",
+    "solar panel quotes"
+  ],
+  "cardText": "Quotes, export payments, batteries and MCS installers.",
+  "sections": [
+    {
+      "h2": "How solar saves you money",
+      "html": "<p>You save in two ways: by using the electricity your panels generate instead of buying it, and by being paid for what you export under a <strong>Smart Export Guarantee (SEG)</strong> tariff. Larger suppliers must offer a SEG tariff, but rates vary a lot between suppliers, so shop around for the export tariff separately from your import tariff.</p><p class=\"source-note\">Sources: <a href=\"https://www.ofgem.gov.uk/environmental-and-social-schemes/smart-export-guarantee-seg\" rel=\"nofollow noopener\" target=\"_blank\">Ofgem: Smart Export Guarantee</a>.</p>"
+    },
+    {
+      "h2": "What to check in a solar quote",
+      "html": "<ul><li>The installer and products are <strong>MCS certified</strong> (needed for SEG payments).</li><li>System size in kWp, panel and inverter make, and warranties.</li><li>An estimate of annual generation based on your roof’s direction, pitch and shading.</li><li>Scaffolding, any bird-proofing, and the DNO grid notification are included.</li><li>Get at least three quotes. Be wary of doorstep or high-pressure sales.</li></ul><p class=\"source-note\">Sources: <a href=\"https://mcscertified.com/\" rel=\"nofollow noopener\" target=\"_blank\">MCS (Microgeneration Certification Scheme)</a>.</p>"
+    },
+    {
+      "h2": "Is a battery worth it?",
+      "html": "<p>A battery stores daytime solar for the evening, and can charge from the grid on a cheap overnight <a href=\"/smart-meters-and-ev-tariffs/\">time-of-use tariff</a>. Whether it pays back depends on your usage pattern, tariff and battery price. The government plans low-interest Warm Homes Plan loans for solar panels and batteries.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need planning permission for solar panels?",
+      "a": "Most homes in England don’t, under permitted development rules, but there are exceptions for listed buildings and some conservation areas. Check with your council."
+    },
+    {
+      "q": "How do I get paid for solar exports?",
+      "a": "Sign up to a Smart Export Guarantee tariff with any supplier offering one. You’ll need an MCS-certified installation and a smart or export meter."
+    }
+  ],
+  "related": [
+    "heat-pumps",
+    "smart-meters-and-ev-tariffs",
+    "energy-grants",
+    "energy-tariffs"
+  ]
+}

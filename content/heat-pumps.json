@@ -1,0 +1,54 @@
+{
+  "updated": "2026-10-15",
+  "slug": "heat-pumps",
+  "title": "Heat Pumps & the £7,500 Boiler Upgrade Scheme",
+  "description": "How heat pumps work, the £7,500 Boiler Upgrade Scheme grant (£9,000 for some off-gas homes), running costs, heat pump tariffs and choosing an MCS installer.",
+  "eyebrow": "Low-carbon heating",
+  "h1": "Heat pumps and the Boiler Upgrade Scheme",
+  "intro": "A heat pump can replace your gas, oil or LPG boiler, and the government will pay £7,500 towards it. Here’s what to know first.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1776860150305-108ed577d7d4",
+    "alt": "An outdoor air source heat pump unit next to a brick building",
+    "credit": "alpha innotec",
+    "creditUrl": "https://unsplash.com/@alpha_innotec"
+  },
+  "keywords": [
+    "heat pump",
+    "air source heat pump",
+    "boiler upgrade scheme",
+    "heat pump grant",
+    "heat pump cost",
+    "heat pump tariff"
+  ],
+  "cardText": "BUS grant, running costs, tariffs and installers.",
+  "sections": [
+    {
+      "h2": "The Boiler Upgrade Scheme",
+      "html": "<ul><li><strong>£7,500</strong> towards an air source or ground source heat pump in England and Wales.</li><li><strong>£9,000</strong> for eligible properties currently heated by oil or LPG, from 21 July 2026 to 31 March 2027.</li><li>No income test. Your MCS-certified installer applies, and the grant comes off your quote.</li><li>The government has also announced smaller grants for air-to-air heat pumps and heat batteries; check GOV.UK for the start date.</li></ul><p class=\"source-note\">Sources: <a href=\"https://www.gov.uk/apply-boiler-upgrade-scheme\" rel=\"nofollow noopener\" target=\"_blank\">GOV.UK: Boiler Upgrade Scheme</a> · <a href=\"https://www.gov.uk/government/publications/warm-homes-plan/warm-homes-plan-html\" rel=\"nofollow noopener\" target=\"_blank\">GOV.UK: Warm Homes Plan</a>.</p>"
+    },
+    {
+      "h2": "Running a heat pump cheaply",
+      "html": "<p>Heat pumps work best running steadily at lower temperatures, in a well-insulated home with correctly sized radiators. A specialist <a href=\"/energy-tariffs/\">heat pump tariff</a> or time-of-use tariff can cut running costs further. Ask your installer for a heat loss survey and a predicted efficiency (SCOP) figure.</p>"
+    },
+    {
+      "h2": "Choosing an installer",
+      "html": "<p>Use an MCS-certified installer (required for the grant), get more than one quote, and ask for examples of similar homes they’ve fitted. Check the quote includes the cylinder, radiators, electrical work and commissioning.</p><p class=\"source-note\">Sources: <a href=\"https://mcscertified.com/\" rel=\"nofollow noopener\" target=\"_blank\">MCS (Microgeneration Certification Scheme)</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much is the heat pump grant?",
+      "a": "£7,500 under the Boiler Upgrade Scheme in England and Wales, or £9,000 for eligible oil or LPG-heated homes until 31 March 2027."
+    },
+    {
+      "q": "Do I need insulation to get the grant?",
+      "a": "From April 2026 the requirement for no outstanding loft or cavity insulation recommendations on your EPC was removed, but good insulation still makes a heat pump cheaper to run."
+    }
+  ],
+  "related": [
+    "energy-grants",
+    "solar-panels",
+    "energy-tariffs",
+    "energy-saving-tips"
+  ]
+}

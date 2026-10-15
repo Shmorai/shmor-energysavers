@@ -1,0 +1,58 @@
+{
+  "updated": "2026-10-15",
+  "type": "post",
+  "slug": "blog/water-bills-2026-reform",
+  "date": "2026-10-08",
+  "eyebrow": "Water news",
+  "title": "Water Bills 2026 and the End of Ofwat Explained",
+  "description": "Why water bills rose in April 2026, what replacing Ofwat with a new regulator means for customers, and the help available if you’re struggling to pay.",
+  "h1": "Water bills in 2026 and the end of Ofwat",
+  "intro": "Bills went up again in April, and the regulator is being replaced. Here’s what that means for your water bill.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1521207418485-99c705420785",
+    "alt": "A tap running water into a kitchen sink",
+    "credit": "Imani",
+    "creditUrl": "https://unsplash.com/@spider_mani"
+  },
+  "keywords": [
+    "water bills 2026",
+    "ofwat abolished",
+    "new water regulator",
+    "water bill rise",
+    "water social tariff"
+  ],
+  "cardText": "April rises, the new regulator and help with bills.",
+  "sources": [
+    {
+      "title": "GOV.UK: Ofwat to be abolished",
+      "url": "https://www.gov.uk/government/news/ofwat-to-be-abolished-in-biggest-overhaul-of-water-since-privatisation"
+    },
+    {
+      "title": "House of Commons Library: A new vision for water",
+      "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10998/"
+    },
+    {
+      "title": "MoneySavingExpert: water bills to rise from April",
+      "url": "https://www.moneysavingexpert.com/news/2026/01/water-bills-april-rise/"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Why bills rose",
+      "html": "<p>Water companies in England and Wales are in a five-year investment period, funded through bills, to upgrade pipes, reservoirs and sewage works. Water UK forecast an average household rise of about £33 (5.4%) from April 2026, but the change varies a lot by company.</p>"
+    },
+    {
+      "h2": "Ofwat is being replaced",
+      "html": "<p>The government announced in July 2025 that Ofwat will be abolished and its role merged with water functions from the Environment Agency, Natural England and the Drinking Water Inspectorate into a single regulator. The January 2026 white paper set out the plan, including closer supervision of each company. Legislation is still to complete its passage through Parliament. A single national social tariff was not included, which consumer campaigners have criticised.</p>"
+    },
+    {
+      "h2": "How to cut your water bill",
+      "html": "<ul><li>Ask whether a <a href=\"/water-bills/\">water meter</a> would save you money.</li><li>Check your company’s social tariff and WaterSure if you’re on benefits.</li><li>Get free help from the Consumer Council for Water.</li></ul>"
+    }
+  ],
+  "related": [
+    "water-bills",
+    "energy-bill-changes",
+    "energy-saving-tips"
+  ]
+}

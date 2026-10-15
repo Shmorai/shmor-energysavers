@@ -1,0 +1,53 @@
+{
+  "updated": "2026-10-15",
+  "type": "post",
+  "slug": "blog/autumn-budget-2026-energy",
+  "date": "2026-10-15",
+  "eyebrow": "Budget watch",
+  "title": "Autumn Budget 2026: What to Watch for Energy Bills",
+  "description": "The Autumn Budget is on 28 October 2026. What has been reported on energy bill support and levies, what’s already confirmed, and what it could mean for you.",
+  "h1": "Autumn Budget 2026: what to watch for energy bills",
+  "intro": "The Chancellor delivers the Budget on Wednesday 28 October. Here’s what’s been reported, and what’s already confirmed, so you can separate fact from speculation.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1624651030272-d38c3d8bb9fe",
+    "alt": "Big Ben and the Houses of Parliament in London at sunset",
+    "credit": "Peter Kostov",
+    "creditUrl": "https://unsplash.com/@strippedlight"
+  },
+  "keywords": [
+    "autumn budget 2026",
+    "budget energy bills",
+    "budget 28 october",
+    "green levies budget"
+  ],
+  "cardText": "Reported measures vs what’s already confirmed.",
+  "sources": [
+    {
+      "title": "Which?: Autumn Budget 2026",
+      "url": "https://www.which.co.uk/news/article/autumn-budget-2026-when-is-it-and-what-will-it-contain-aQqC47O24jnl"
+    },
+    {
+      "title": "Carbon Brief: UK Budget 2025 key climate and energy announcements",
+      "url": "https://www.carbonbrief.org/uk-budget-2025-key-climate-and-energy-announcements"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Already confirmed",
+      "html": "<ul><li><strong>0% VAT on household electricity</strong> in Great Britain until 31 March 2027.</li><li><strong>Policy costs moved off bills:</strong> from April 2026 the Treasury pays three-quarters of the Renewables Obligation cost for households for three years, and ECO is ending.</li><li><strong>Warm Home Discount:</strong> £150 for eligible households this winter.</li></ul>"
+    },
+    {
+      "h2": "What has been reported (not confirmed)",
+      "html": "<p>Ahead of the Budget, reports suggest the Treasury has been considering more targeted help with energy bills for lower-income households, and that there has been pressure from within government to cut more levies from bills. Treat these as speculation until the Chancellor’s statement. Public finances have also come under pressure from higher energy prices.</p>"
+    },
+    {
+      "h2": "What it could mean for you",
+      "html": "<p>Targeted support would most likely reach households on means-tested benefits, possibly through existing schemes such as the Warm Home Discount. Changes to levies would show up in the price cap from a future quarter. We’ll update <a href=\"/energy-bill-changes/\">what’s changing</a> on Budget day.</p>"
+    }
+  ],
+  "related": [
+    "energy-bill-changes",
+    "energy-grants",
+    "blog/electricity-vat-cut-explained"
+  ]
+}

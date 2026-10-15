@@ -1,15 +1,301 @@
 {
+  "updated": "2026-10-15",
   "slug": "",
-  "title": "EnergySavers: Compare UK gas, electricity and water supplier",
-  "description": "Compare UK gas, electricity and water suppliers, tariffs and price cap changes, with money-saving guides, grants and the latest energy news. Free to use, part of the Shmor.ai network.",
-  "eyebrow": "Part of the Shmor.ai network",
-  "h1": "EnergySavers",
-  "intro": "Compare UK gas, electricity and water suppliers, tariffs and price cap changes, with money-saving guides, grants and the latest energy news.",
-  "related": [],
+  "title": "EnergySavers: Compare UK Energy & Water Bills",
+  "description": "Compare UK gas, electricity and water suppliers and tariffs, track the Ofgem price cap, find grants and get plain-English tips to cut your bills.",
+  "eyebrow": "Gas · Electricity · Water · Grants",
+  "h1": "Cut your energy and water bills, without the jargon.",
+  "h1Html": "Cut your energy and water bills, <span class=\"hl\">without the jargon.</span>",
+  "intro": "Independent UK guides to every major energy supplier, every type of tariff, the Ofgem price cap, water bills, grants and the law and budget changes coming next. Compare properly, then switch direct.",
+  "searchPlaceholder": "Try “fixed tariff”, “water meter” or “heat pump grant”",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1780554193584-2e4da0bd7b36",
+    "alt": "A street lined with brick terraced houses and parked cars",
+    "credit": "William V",
+    "creditUrl": "https://unsplash.com/@william_vdg"
+  },
+  "chips": [
+    {
+      "label": "Price cap",
+      "slug": "energy-price-cap"
+    },
+    {
+      "label": "Suppliers",
+      "slug": "energy-suppliers"
+    },
+    {
+      "label": "Tariff types",
+      "slug": "energy-tariffs"
+    },
+    {
+      "label": "Water bills",
+      "slug": "water-bills"
+    },
+    {
+      "label": "Grants",
+      "slug": "energy-grants"
+    },
+    {
+      "label": "What’s changing",
+      "slug": "energy-bill-changes"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "strip",
+      "position": "top",
+      "items": [
+        {
+          "icon": "shield",
+          "title": "Independent.",
+          "text": "We’re not a supplier and never sell you energy."
+        },
+        {
+          "icon": "zap",
+          "title": "Price cap tracked",
+          "text": "every quarter from Ofgem’s own figures."
+        },
+        {
+          "icon": "droplet",
+          "title": "Water too:",
+          "text": "every regional water company, meters and help schemes."
+        },
+        {
+          "icon": "wallet",
+          "title": "Free to use.",
+          "text": "You always switch direct."
+        }
+      ]
+    },
+    {
+      "type": "tiles",
+      "position": "top",
+      "title": "Start with the bill you want to cut",
+      "items": [
+        {
+          "slug": "energy-price-cap",
+          "title": "Gas & electricity",
+          "badge": "Price cap",
+          "text": "What the October 2026 cap means for your bill."
+        },
+        {
+          "slug": "water-bills",
+          "title": "Water bills",
+          "badge": "Water",
+          "text": "Meters, social tariffs and the 2026 reforms."
+        },
+        {
+          "slug": "energy-grants",
+          "title": "Grants & support",
+          "badge": "Help",
+          "text": "Warm Home Discount, BUS and more."
+        },
+        {
+          "slug": "solar-panels",
+          "title": "Solar panels",
+          "badge": "Generate",
+          "text": "Costs to check, export payments and batteries."
+        },
+        {
+          "slug": "heat-pumps",
+          "title": "Heat pumps",
+          "badge": "£7,500 grant",
+          "text": "Boiler Upgrade Scheme explained."
+        }
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Tariff cards: which type suits you?",
+      "intro": "Every UK energy deal is one of a handful of tariff types. Know the type first, then compare prices.",
+      "more": {
+        "slug": "energy-tariffs",
+        "title": "All tariff cards"
+      },
+      "items": [
+        {
+          "mono": "SV",
+          "kind": "Default",
+          "title": "Standard variable",
+          "badge": "Price capped",
+          "text": "Rates move every three months in line with the Ofgem cap. No exit fees.",
+          "specs": [
+            [
+              "Price changes",
+              "Quarterly"
+            ],
+            [
+              "Exit fees",
+              "None"
+            ],
+            [
+              "Best for",
+              "Flexibility"
+            ]
+          ],
+          "href": "/energy-tariffs/",
+          "more": "Tariff guide"
+        },
+        {
+          "mono": "FX",
+          "kind": "Fixed",
+          "title": "Fixed tariff",
+          "text": "Unit rates and standing charges locked for the term, often 12 or 24 months.",
+          "specs": [
+            [
+              "Price changes",
+              "Locked"
+            ],
+            [
+              "Exit fees",
+              "Often"
+            ],
+            [
+              "Best for",
+              "Budgeting"
+            ]
+          ],
+          "href": "/energy-tariffs/",
+          "more": "Tariff guide"
+        },
+        {
+          "mono": "TU",
+          "kind": "Smart",
+          "title": "Time-of-use & EV",
+          "text": "Cheaper electricity at set times, usually overnight. Needs a smart meter.",
+          "specs": [
+            [
+              "Price changes",
+              "By time of day"
+            ],
+            [
+              "Meter",
+              "Smart"
+            ],
+            [
+              "Best for",
+              "EVs, batteries"
+            ]
+          ],
+          "href": "/smart-meters-and-ev-tariffs/",
+          "more": "Smart & EV guide"
+        },
+        {
+          "mono": "PP",
+          "kind": "Pay as you go",
+          "title": "Prepayment",
+          "text": "Pay before you use. Ofgem says prepay currently has the lowest cap rates.",
+          "specs": [
+            [
+              "Price changes",
+              "Quarterly"
+            ],
+            [
+              "Exit fees",
+              "Usually none"
+            ],
+            [
+              "Best for",
+              "Tight budgets"
+            ]
+          ],
+          "href": "/energy-tariffs/",
+          "more": "Tariff guide"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Four steps to a cheaper bill",
+      "items": [
+        {
+          "icon": "receipt",
+          "title": "Find your numbers",
+          "text": "Your annual kWh, tariff name, end date and any exit fee are on your bill or app."
+        },
+        {
+          "icon": "scale",
+          "title": "Compare like for like",
+          "text": "Check unit rates <em>and</em> standing charges against the <a href=\"/energy-price-cap/\">price cap</a>."
+        },
+        {
+          "icon": "repeat",
+          "title": "Switch or fix",
+          "text": "Switching is free and usually takes days. <a href=\"/switch-energy-supplier/\">How switching works</a>."
+        },
+        {
+          "icon": "house",
+          "title": "Use less",
+          "text": "Simple <a href=\"/energy-saving-tips/\">energy saving tips</a> and <a href=\"/energy-grants/\">grants</a> cut usage for good."
+        }
+      ]
+    }
+  ],
+  "highlightsTitle": "Why UK households start here",
+  "highlights": [
+    {
+      "title": "Official figures only",
+      "text": "Price cap rates, grants and rules come from Ofgem, GOV.UK and regulators, with links so you can check."
+    },
+    {
+      "title": "Every supplier explained",
+      "text": "Big six, green specialists, app-based challengers and prepay specialists in one place."
+    },
+    {
+      "title": "Water, not just energy",
+      "text": "Who supplies your water, whether a meter would save you money and what help exists."
+    },
+    {
+      "title": "What’s coming next",
+      "text": "Budgets, VAT, price cap forecasts, takeovers and new laws, explained before they hit your bill."
+    }
+  ],
   "sections": [
     {
-      "h2": "Why use EnergySavers?",
-      "html": "<p>Compare UK gas, electricity and water suppliers, tariffs and price cap changes, with money-saving guides, grants and the latest energy news.</p>"
+      "h2": "The UK energy price cap right now",
+      "html": "<p>From <strong>1 October to 31 December 2026</strong> the Ofgem price cap is equivalent to <strong>£1,723 a year</strong> for a typical dual fuel household paying by Direct Debit, up 4% on the summer. Electricity is capped at an average of 26.32p per kWh with a 54.83p daily standing charge; gas at 7.97p per kWh and 29.68p a day. VAT on household electricity in Great Britain is temporarily 0% until 31 March 2027.</p><p>The cap limits the <em>rates</em>, not your total bill. Read <a href=\"/energy-price-cap/\">our price cap guide</a> for what it means for you and what forecasters expect in January, or see <a href=\"/energy-bill-changes/\">everything that’s changing</a>.</p>"
+    },
+    {
+      "h2": "Compare suppliers, tariffs and deals properly",
+      "html": "<p>Around a third of households are on fixed deals, and Ofgem says fixes have been available at £100 or more below the October cap. But the cheapest headline deal isn’t always the best value for you. Our guides show you how to compare:</p><ul><li><strong>Suppliers:</strong> who supplies what, from the largest firms to green and app-based challengers, in our <a href=\"/energy-suppliers/\">UK energy suppliers guide</a>.</li><li><strong>Tariffs:</strong> fixed, variable, tracker, time-of-use, Economy 7, EV and prepay, in our <a href=\"/energy-tariffs/\">tariff cards</a>.</li><li><strong>Deals:</strong> how to judge a deal against the cap, exit fees and standing charges, in <a href=\"/compare-energy-deals/\">how to compare energy deals</a>.</li><li><strong>Switching:</strong> your rights and the timeline, in <a href=\"/switch-energy-supplier/\">how to switch energy supplier</a>.</li></ul>"
+    },
+    {
+      "h2": "Water bills: you can’t switch, but you can still save",
+      "html": "<p>Households in England and Wales can’t choose their water company, and average bills rose again in April 2026. You can still save with a <a href=\"/water-bills/\">water meter</a>, a social tariff or a capped bill under WaterSure. The water industry is also being reformed, with Ofwat due to be replaced by a single new regulator.</p>"
+    },
+    {
+      "h2": "How EnergySavers makes money",
+      "html": "<p>EnergySavers is free to use. Some links may be affiliate links: if you switch or buy through them, the provider may pay us a commission. It never changes the price you pay and never decides what we write. Read <a href=\"https://shmor.ai/affiliate-disclosure/\">how we make money</a>.</p>"
     }
-  ]
+  ],
+  "faqs": [
+    {
+      "q": "Is EnergySavers an energy supplier or switching site?",
+      "a": "No. We are an independent guide and comparison site. You switch or sign up directly with the supplier, or through a switching service, on their terms."
+    },
+    {
+      "q": "Where do your price cap figures come from?",
+      "a": "From Ofgem, the energy regulator for Great Britain. They are national averages for Direct Debit customers; your own rates depend on your region, meter and payment method."
+    },
+    {
+      "q": "Do you cover Northern Ireland and Scotland?",
+      "a": "The Ofgem price cap covers England, Scotland and Wales. Northern Ireland has a separate energy market and the temporary 0% VAT on electricity does not apply there. Water is supplied by Scottish Water and NI Water, and we explain how bills work in each nation."
+    },
+    {
+      "q": "Is this financial advice?",
+      "a": "No. Our guides are general information. Check the provider, Ofgem or GOV.UK before you decide, and talk to Citizens Advice if you’re struggling to pay."
+    }
+  ],
+  "related": [
+    "energy-price-cap",
+    "energy-suppliers",
+    "energy-tariffs",
+    "water-bills",
+    "energy-grants",
+    "energy-saving-tips"
+  ],
+  "relatedTitle": "Popular energy guides",
+  "latestPosts": 3,
+  "latestTitle": "Latest energy news",
+  "ctaTitle": "Which bill do you want to cut?"
 }

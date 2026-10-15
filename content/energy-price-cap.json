@@ -1,0 +1,72 @@
+{
+  "updated": "2026-10-15",
+  "slug": "energy-price-cap",
+  "nav": "Price cap",
+  "navOrder": 1,
+  "title": "Energy Price Cap Oct–Dec 2026: Rates Explained",
+  "description": "The Ofgem energy price cap from 1 October 2026 is £1,723 a year. See unit rates, standing charges, the VAT change and what forecasters expect for January.",
+  "eyebrow": "Ofgem price cap · Updated quarterly",
+  "h1": "Energy price cap: October to December 2026",
+  "intro": "The cap rose 4% on 1 October 2026 to the equivalent of £1,723 a year for a typical household. Here’s what that means, what you actually pay and what could happen in January.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e",
+    "alt": "Electricity pylons and power lines against the sky",
+    "credit": "Matthew Henry",
+    "creditUrl": "https://unsplash.com/@matthewhenry"
+  },
+  "keywords": [
+    "energy price cap",
+    "price cap october 2026",
+    "ofgem price cap",
+    "price cap january 2027",
+    "unit rates",
+    "standing charges"
+  ],
+  "cardText": "Current Ofgem rates, the VAT change and January forecasts.",
+  "sections": [
+    {
+      "h2": "The current price cap at a glance",
+      "html": "<div class=\"figure-row\"><div class=\"figure\"><b>£1,723</b><span>a year, typical dual fuel, Direct Debit</span></div><div class=\"figure\"><b>26.32p</b><span>per kWh electricity (avg)</span></div><div class=\"figure\"><b>7.97p</b><span>per kWh gas (avg)</span></div><div class=\"figure\"><b>0% VAT</b><span>on household electricity to 31 Mar 2027</span></div></div><div class=\"table-wrap\"><table><thead><tr><th>Average Direct Debit rates</th><th>1 Jul–30 Sep 2026</th><th>1 Oct–31 Dec 2026</th></tr></thead><tbody><tr><td>Electricity unit rate</td><td>26.11p/kWh</td><td>26.32p/kWh</td></tr><tr><td>Electricity standing charge</td><td>57.19p/day</td><td>54.83p/day</td></tr><tr><td>Gas unit rate</td><td>7.33p/kWh</td><td>7.97p/kWh</td></tr><tr><td>Gas standing charge</td><td>29.04p/day</td><td>29.68p/day</td></tr><tr><td>Typical annual bill</td><td>£1,663</td><td>£1,723</td></tr></tbody></table></div><p>Ofgem points out the periods can’t be compared directly, because electricity now carries no VAT while gas still has 5%. Gas bills are up around 8% while electricity is broadly flat.</p><p class=\"source-note\">Sources: <a href=\"https://www.ofgem.gov.uk/your-energy-supply/your-energy-bill/energy-price-cap-unit-rates-and-standing-charges\" rel=\"nofollow noopener\" target=\"_blank\">Ofgem: price cap unit rates and standing charges</a> · <a href=\"https://www.ofgem.gov.uk/press-release/energy-price-cap-will-rise-4-october-2026\" rel=\"nofollow noopener\" target=\"_blank\">Ofgem: energy price cap will rise by 4% from October 2026</a>.</p>"
+    },
+    {
+      "h2": "Why prices went up in October",
+      "html": "<p>Ofgem says the rise is driven by higher wholesale gas prices linked to the conflict in the Middle East, with wholesale costs up about 11% over the three months it assessed. Without the government’s VAT cut on electricity, Ofgem estimates the increase would have been around £45 higher. Even so, prices are about 52% below the peak of the 2022 energy crisis.</p><p>Ofgem also lowered its “typical” consumption benchmark, because households now use about 7% less electricity and 17% less gas than before. That makes the headline figure lower, but doesn’t change what you pay per unit.</p>"
+    },
+    {
+      "h2": "What the price cap does and doesn’t do",
+      "html": "<ul><li><strong>It caps rates, not bills.</strong> The cap limits the unit rate and standing charge on standard variable (default) tariffs. Use more energy and you’ll pay more than £1,723.</li><li><strong>It varies by region.</strong> Standing charges differ a lot: London has some of the lowest and North Wales &amp; Mersey some of the highest. Ofgem publishes the cap for each region.</li><li><strong>It varies by how you pay.</strong> Prepayment currently has the lowest cap rates; paying on receipt of a bill (standard credit) costs more than Direct Debit.</li><li><strong>Fixed deals aren’t affected.</strong> If you fixed before October, your rates stay as agreed until the fix ends.</li></ul>"
+    },
+    {
+      "h2": "What could happen in January 2027?",
+      "html": "<p>Ofgem normally announces the next cap around five weeks before it starts, so the January to March 2027 cap is expected in late November 2026. Until then, the figures below are <strong>forecasts, not prices</strong>:</p><ul><li>Cornwall Insight’s forecast of 23 September put the January cap at around £1,872 a year using Ofgem’s current consumption figures.</li><li>Other forecasters have published higher estimates, depending on their view of wholesale gas prices.</li></ul><p class=\"callout\">If forecasts point up, a fixed deal priced at or below today’s cap can protect you. Compare the fix against both the current cap and the forecast, and check the exit fee. See <a href=\"/compare-energy-deals/\">how to compare energy deals</a>.</p><p>Also on the calendar: the Autumn Budget on 28 October 2026 and the end of the 0% VAT rate on electricity on 31 March 2027, unless it’s extended. Follow every date in <a href=\"/energy-bill-changes/\">what’s changing</a>.</p>"
+    },
+    {
+      "h2": "Price cap history",
+      "html": "<div class=\"table-wrap\"><table><thead><tr><th>Period</th><th>Typical annual bill (Direct Debit)</th><th>What happened</th></tr></thead><tbody><tr><td>Oct 2022 – Jun 2023</td><td>£2,500 (Energy Price Guarantee)</td><td>Government limited bills during the energy crisis</td></tr><tr><td>Apr – Jun 2026</td><td>£1,641</td><td>Down 7% as some policy costs moved off bills</td></tr><tr><td>Jul – Sep 2026</td><td>£1,663</td><td>Small rise</td></tr><tr><td>Oct – Dec 2026</td><td>£1,723</td><td>Up 4% on higher wholesale gas prices</td></tr></tbody></table></div>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When is the next price cap announcement?",
+      "a": "Ofgem usually announces each cap around five weeks before it starts. The January to March 2027 cap is expected in late November 2026."
+    },
+    {
+      "q": "Does the price cap apply to fixed tariffs?",
+      "a": "No. The cap applies to standard variable and default tariffs. Fixed tariffs keep the rates you agreed until the end of the term."
+    },
+    {
+      "q": "Why is my bill higher than £1,723?",
+      "a": "The figure is for a typical household. The cap limits unit rates and standing charges, so a bigger home or higher usage means a bigger bill. Your region and payment method also change your rates."
+    },
+    {
+      "q": "Does the price cap apply in Northern Ireland?",
+      "a": "No. Northern Ireland has its own energy market and regulator (the Utility Regulator), and the temporary 0% VAT on electricity does not apply there."
+    }
+  ],
+  "related": [
+    "compare-energy-deals",
+    "energy-tariffs",
+    "energy-bill-changes",
+    "switch-energy-supplier"
+  ]
+}

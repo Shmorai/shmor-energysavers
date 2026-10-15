@@ -1,0 +1,70 @@
+{
+  "updated": "2026-10-15",
+  "slug": "water-bills",
+  "nav": "Water",
+  "navOrder": 5,
+  "title": "UK Water Bills: Water Companies, Meters & Help",
+  "description": "Find your UK water company, see if a water meter could cut your bill, and get help with social tariffs, WaterSure and the 2026 water industry reforms.",
+  "eyebrow": "Water & sewerage bills",
+  "h1": "Water bills: find your company and save",
+  "intro": "You can’t switch water supplier at home in England and Wales, but you can still cut your bill. Here’s who supplies your water, how meters work and where to get help.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1542013936693-884638332954",
+    "alt": "A person turning on a kitchen tap",
+    "credit": "Jacek Dylag",
+    "creditUrl": "https://unsplash.com/@dylu"
+  },
+  "keywords": [
+    "water bills",
+    "water bill",
+    "water meter",
+    "water company",
+    "who is my water supplier",
+    "water social tariff",
+    "watersure",
+    "thames water",
+    "water bill increase"
+  ],
+  "cardText": "Water companies by region, meters, social tariffs and reform.",
+  "sections": [
+    {
+      "h2": "Who supplies your water?",
+      "html": "<p>Water companies are regional monopolies. Some supply both water and sewerage; in some areas a separate “water only” company supplies your water while a larger company handles sewerage, so you may get two bills.</p><div class=\"table-wrap\"><table><thead><tr><th>Company</th><th>Main area</th><th>Services</th></tr></thead><tbody><tr><td><a href=\"https://www.anglianwater.co.uk/\" rel=\"nofollow noopener\" target=\"_blank\">Anglian Water</a></td><td>East of England</td><td>Water & sewerage</td></tr><tr><td><a href=\"https://www.dwrcymru.com/\" rel=\"nofollow noopener\" target=\"_blank\">Dŵr Cymru Welsh Water</a></td><td>Most of Wales and parts of bordering England</td><td>Water & sewerage</td></tr><tr><td><a href=\"https://www.hdcymru.co.uk/\" rel=\"nofollow noopener\" target=\"_blank\">Hafren Dyfrdwy</a></td><td>Parts of mid and north-east Wales</td><td>Water & sewerage</td></tr><tr><td><a href=\"https://www.nwl.co.uk/\" rel=\"nofollow noopener\" target=\"_blank\">Northumbrian Water</a></td><td>North East England</td><td>Water & sewerage</td></tr><tr><td><a href=\"https://www.eswater.co.uk/\" rel=\"nofollow noopener\" target=\"_blank\">Essex &amp; Suffolk Water</a></td><td>Parts of Essex and Suffolk</td><td>Water only</td></tr><tr><td><a href=\"https://www.stwater.co.uk/\" rel=\"nofollow noopener\" target=\"_blank\">Severn Trent</a></td><td>Midlands</td><td>Water & sewerage</td></tr><tr><td><a href=\"https://www.southwestwater.co.uk/\" rel=\"nofollow noopener\" target=\"_blank\">South West Water</a></td><td>Devon and Cornwall, plus Bournemouth and Bristol Water areas</td><td>Water & sewerage</td></tr><tr><td><a href=\"https://www.southernwater.co.uk/\" rel=\"nofollow noopener\" target=\"_blank\">Southern Water</a></td><td>Kent, Sussex, Hampshire, Isle of Wight</td><td>Water & sewerage</td></tr><tr><td><a href=\"https://www.thameswater.co.uk/\" rel=\"nofollow noopener\" target=\"_blank\">Thames Water</a></td><td>London and the Thames Valley</td><td>Water & sewerage</td></tr><tr><td><a href=\"https://www.unitedutilities.com/\" rel=\"nofollow noopener\" target=\"_blank\">United Utilities</a></td><td>North West England</td><td>Water & sewerage</td></tr><tr><td><a href=\"https://www.wessexwater.co.uk/\" rel=\"nofollow noopener\" target=\"_blank\">Wessex Water</a></td><td>Somerset, Dorset, Wiltshire and around Bristol and Bath</td><td>Water & sewerage</td></tr><tr><td><a href=\"https://www.yorkshirewater.com/\" rel=\"nofollow noopener\" target=\"_blank\">Yorkshire Water</a></td><td>Yorkshire</td><td>Water & sewerage</td></tr><tr><td><a href=\"https://www.affinitywater.co.uk/\" rel=\"nofollow noopener\" target=\"_blank\">Affinity Water</a></td><td>Parts of the South East and Home Counties</td><td>Water only</td></tr><tr><td><a href=\"https://www.cambridge-water.co.uk/\" rel=\"nofollow noopener\" target=\"_blank\">Cambridge Water</a></td><td>Cambridge area</td><td>Water only</td></tr><tr><td><a href=\"https://www.portsmouthwater.co.uk/\" rel=\"nofollow noopener\" target=\"_blank\">Portsmouth Water</a></td><td>South-east Hampshire and West Sussex</td><td>Water only</td></tr><tr><td><a href=\"https://www.seswater.co.uk/\" rel=\"nofollow noopener\" target=\"_blank\">SES Water</a></td><td>Parts of Surrey and Kent</td><td>Water only</td></tr><tr><td><a href=\"https://www.southeastwater.co.uk/\" rel=\"nofollow noopener\" target=\"_blank\">South East Water</a></td><td>Parts of Kent and Sussex</td><td>Water only</td></tr><tr><td><a href=\"https://www.south-staffs-water.co.uk/\" rel=\"nofollow noopener\" target=\"_blank\">South Staffs Water</a></td><td>Parts of Staffordshire and the West Midlands</td><td>Water only</td></tr><tr><td><a href=\"https://www.scottishwater.co.uk/\" rel=\"nofollow noopener\" target=\"_blank\">Scottish Water</a></td><td>Scotland (household charges collected with council tax)</td><td>Water & sewerage</td></tr><tr><td><a href=\"https://www.niwater.com/\" rel=\"nofollow noopener\" target=\"_blank\">NI Water</a></td><td>Northern Ireland (households don’t pay a separate water bill)</td><td>Water & sewerage</td></tr></tbody></table></div><p>Not sure? Your water company is named on your bill, or you can check by postcode with Water UK or the <a href=\"https://www.ccw.org.uk/\" rel=\"nofollow noopener\" target=\"_blank\">Consumer Council for Water (CCW)</a>.</p>"
+    },
+    {
+      "h2": "Water bills in 2026",
+      "html": "<p>Bills in England and Wales rose again from April 2026, as companies pay for investment in pipes, reservoirs and sewage treatment. Water UK forecast an average household rise of about £33 (5.4%), to around £639 a year, with big differences between companies.</p><p class=\"source-note\">Sources: <a href=\"https://www.moneysavingexpert.com/news/2026/01/water-bills-april-rise/\" rel=\"nofollow noopener\" target=\"_blank\">MoneySavingExpert: water bills to rise from April</a>.</p>"
+    },
+    {
+      "h2": "Would a water meter save you money?",
+      "html": "<p>Without a meter you pay a fixed charge based on your home’s old “rateable value”. With a meter you pay for what you use. In England and Wales you can usually ask your water company to fit a meter for free. As a rule of thumb, a meter often saves money if there are fewer people in your home than bedrooms.</p><ul><li>If the meter doesn’t save you money, you can usually switch back to unmetered charges within a set period (typically 12 months).</li><li>If a meter can’t be fitted, ask for an “assessed charge”, which can be lower.</li><li>Use CCW’s water meter calculator before you decide.</li></ul>"
+    },
+    {
+      "h2": "Help if you can’t afford your water bill",
+      "html": "<ul><li><strong>Social tariffs:</strong> every company in England and Wales has a scheme cutting bills for lower-income households. Rules and discounts vary by company.</li><li><strong>WaterSure (WaterSure Plus / WaterSure Wales):</strong> caps a metered bill if you get certain benefits and have a large family or a medical condition that means using more water.</li><li><strong>Payment breaks and plans:</strong> ask your water company early. Many have hardship funds and can clear arrears if you keep up regular payments.</li><li><strong>Free advice:</strong> the <a href=\"https://www.ccw.org.uk/\" rel=\"nofollow noopener\" target=\"_blank\">Consumer Council for Water (CCW)</a> helps with disputes and support.</li></ul>"
+    },
+    {
+      "h2": "The water industry is being reformed",
+      "html": "<p>In July 2025 the government announced that Ofwat will be abolished and replaced by a single new water regulator, combining water functions now spread across Ofwat, the Environment Agency, Natural England and the Drinking Water Inspectorate. A white paper, <em>A new vision for water</em>, followed in January 2026, with legislation to follow. Campaigners have criticised the decision not to include a single national social tariff. Read our explainer: <a href=\"/blog/water-bills-2026-reform/\">water bills and the new regulator</a>.</p><p class=\"source-note\">Sources: <a href=\"https://www.gov.uk/government/news/ofwat-to-be-abolished-in-biggest-overhaul-of-water-since-privatisation\" rel=\"nofollow noopener\" target=\"_blank\">GOV.UK: Ofwat to be abolished</a> · <a href=\"https://commonslibrary.parliament.uk/research-briefings/cbp-10998/\" rel=\"nofollow noopener\" target=\"_blank\">House of Commons Library: A new vision for water</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I switch water supplier?",
+      "a": "Not as a household in England, Wales or Scotland: your water company depends on where you live. Businesses in England and Scotland can choose their water retailer."
+    },
+    {
+      "q": "Is a water meter cheaper?",
+      "a": "Often, especially if fewer people live in your home than there are bedrooms. In England and Wales you can usually switch back within a set period if it doesn’t save money."
+    },
+    {
+      "q": "What is a water social tariff?",
+      "a": "A discounted bill for households on low incomes. Each water company runs its own scheme, so eligibility and discounts vary. Ask your company or CCW."
+    }
+  ],
+  "related": [
+    "energy-saving-tips",
+    "energy-grants",
+    "energy-bill-changes"
+  ]
+}

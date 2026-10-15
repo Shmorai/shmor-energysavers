@@ -1,0 +1,49 @@
+{
+  "updated": "2026-10-15",
+  "type": "post",
+  "slug": "blog/should-you-fix-energy-winter-2026",
+  "date": "2026-10-12",
+  "eyebrow": "Deals analysis",
+  "title": "Should You Fix Your Energy This Winter? (2026)",
+  "description": "With the January 2027 price cap forecast to rise, should you fix your gas and electricity? How to weigh fixes against the cap, exit fees and the VAT change.",
+  "h1": "Should you fix your energy this winter?",
+  "intro": "Forecasts suggest the price cap will rise again in January. Here’s how to decide whether a fixed tariff makes sense for you.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1604177420682-0c840feb01de",
+    "alt": "A black and white electricity meter",
+    "credit": "Jon Moore",
+    "creditUrl": "https://unsplash.com/@thejmoore"
+  },
+  "keywords": [
+    "should i fix energy",
+    "fixed energy deal winter 2026",
+    "fix or variable energy",
+    "price cap forecast"
+  ],
+  "cardText": "Weighing fixes against the cap and January forecasts.",
+  "sources": [
+    {
+      "title": "Ofgem: energy price cap will rise by 4% from October 2026",
+      "url": "https://www.ofgem.gov.uk/press-release/energy-price-cap-will-rise-4-october-2026"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "The case for fixing",
+      "html": "<ul><li>Forecasters expect the January 2027 cap to be higher than October’s £1,723, with Cornwall Insight’s September forecast around £1,872.</li><li>Ofgem said in August that fixes were available at £100 or more below the October cap.</li><li>A fix gives certainty through the coldest months.</li></ul>"
+    },
+    {
+      "h2": "The case against",
+      "html": "<ul><li>If wholesale prices fall, you could be stuck paying more, or pay an exit fee to leave.</li><li>Forecasts change: the January cap isn’t set until late November.</li><li>A fix priced above the current cap only pays off if prices rise enough.</li></ul>"
+    },
+    {
+      "h2": "A simple rule of thumb",
+      "html": "<p class=\"callout\">A fix at or below today’s cap, with low or no exit fees, has little downside. A fix well above the cap is a bet on rising prices. Run the numbers with your own kWh using our <a href=\"/compare-energy-deals/\">deal checklist</a>.</p>"
+    }
+  ],
+  "related": [
+    "compare-energy-deals",
+    "energy-price-cap",
+    "energy-tariffs"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "updated": "2026-10-15",
+  "slug": "smart-meters-and-ev-tariffs",
+  "title": "Smart Meters & EV Tariffs: Cheaper Off-Peak Power",
+  "description": "How smart meters work, whether you need one, and how time-of-use and EV tariffs can cut your electricity bill if you charge a car or shift usage off-peak.",
+  "eyebrow": "Smart meters · EV · Time-of-use",
+  "h1": "Smart meters and EV tariffs",
+  "intro": "A smart meter unlocks the cheapest electricity tariffs in Britain, if you can use power at the right times. Here’s how it works.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1766507679659-30076abc8c95",
+    "alt": "An electric car charger mounted on a brick wall",
+    "credit": "dcbel",
+    "creditUrl": "https://unsplash.com/@privategrid"
+  },
+  "keywords": [
+    "smart meter",
+    "ev tariff",
+    "electric car tariff",
+    "time of use tariff",
+    "agile tariff",
+    "off peak electricity",
+    "smart meter installation"
+  ],
+  "cardText": "Smart meters, off-peak, agile and EV charging tariffs.",
+  "sections": [
+    {
+      "h2": "What a smart meter does",
+      "html": "<p>A smart meter sends readings to your supplier automatically, so there are no estimated bills, and comes with an in-home display showing what you use. Installation is offered free by suppliers. You don’t have to have one, but you need one for most time-of-use, tracker and EV tariffs, and for some export tariffs.</p>"
+    },
+    {
+      "h2": "EV and time-of-use tariffs",
+      "html": "<p>EV tariffs give a cheap overnight window, often several hours, for charging a car or running a battery, dishwasher or washing machine. Agile-style tariffs change price every half hour in line with wholesale prices, and can occasionally go below zero when there’s surplus wind power. The trade-off is usually a higher daytime or peak price, especially between 4pm and 7pm.</p><p class=\"callout\">Before you switch: check how much of your electricity you can really move to off-peak hours. If most of your use is in the early evening, a flat tariff may be cheaper.</p>"
+    },
+    {
+      "h2": "Home EV chargers",
+      "html": "<p>A smart home charger can be scheduled to charge only in your tariff’s cheap window, and some tariffs control your charger directly to find the cheapest times. Make sure your charger is installed by a qualified electrician and meets UK smart charge point regulations.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I have to have a smart meter?",
+      "a": "No, smart meters aren’t compulsory. But you’ll need one for most time-of-use, tracker and EV tariffs."
+    },
+    {
+      "q": "Can I keep my EV tariff if I switch supplier?",
+      "a": "EV tariffs belong to the supplier, so you’d move to the new supplier’s tariff. Check the new supplier offers one before switching."
+    }
+  ],
+  "related": [
+    "energy-tariffs",
+    "solar-panels",
+    "energy-saving-tips",
+    "compare-energy-deals"
+  ]
+}

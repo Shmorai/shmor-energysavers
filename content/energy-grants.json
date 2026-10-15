@@ -1,0 +1,144 @@
+{
+  "updated": "2026-10-15",
+  "slug": "energy-grants",
+  "nav": "Grants & help",
+  "navOrder": 6,
+  "title": "Energy Grants & Bill Help UK 2026/27: What’s Open",
+  "description": "UK energy grants and bill support for winter 2026/27: Warm Home Discount, Winter Fuel Payment, Cold Weather Payment, Boiler Upgrade Scheme and Warm Homes Plan.",
+  "eyebrow": "Grants · Discounts · Support",
+  "h1": "Energy grants and help with bills",
+  "intro": "What help is available this winter, who qualifies and how to get it, from the £150 Warm Home Discount to the £7,500 heat pump grant.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1752852381113-7d93abc9d7ea",
+    "alt": "A loft space with insulation and skylights",
+    "credit": "Brett Jordan",
+    "creditUrl": "https://unsplash.com/@brett_jordan"
+  },
+  "keywords": [
+    "energy grants",
+    "warm home discount",
+    "winter fuel payment",
+    "cold weather payment",
+    "boiler upgrade scheme",
+    "warm homes plan",
+    "help with energy bills",
+    "energy debt"
+  ],
+  "cardText": "Warm Home Discount, Winter Fuel Payment, BUS and more.",
+  "blocks": [
+    {
+      "type": "specs",
+      "title": "Support at a glance",
+      "items": [
+        {
+          "mono": "£150",
+          "kind": "Bill discount",
+          "title": "Warm Home Discount",
+          "text": "A £150 discount on your electricity bill for winter 2026 to 2027. Usually automatic if you’re eligible.",
+          "specs": [
+            [
+              "Who",
+              "Pension Credit & low-income households"
+            ],
+            [
+              "Paid as",
+              "Bill credit or prepay voucher"
+            ]
+          ],
+          "url": "https://www.gov.uk/the-warm-home-discount-scheme"
+        },
+        {
+          "mono": "WFP",
+          "kind": "Pensioners",
+          "title": "Winter Fuel Payment",
+          "text": "£100 to £300 for people born on or before 27 June 1960. Paid mostly in November or December 2026.",
+          "specs": [
+            [
+              "Income over £35,000",
+              "Taken back by HMRC"
+            ],
+            [
+              "Scotland",
+              "Pension Age Winter Heating Payment"
+            ]
+          ],
+          "url": "https://www.gov.uk/winter-fuel-payment"
+        },
+        {
+          "mono": "CWP",
+          "kind": "Cold snaps",
+          "title": "Cold Weather Payment",
+          "text": "A payment for each 7-day period of very cold weather, for people on certain benefits in England and Wales.",
+          "specs": [
+            [
+              "Paid",
+              "Automatically"
+            ],
+            [
+              "Scotland",
+              "Winter Heating Payment instead"
+            ]
+          ],
+          "url": "https://www.gov.uk/cold-weather-payment"
+        },
+        {
+          "mono": "BUS",
+          "kind": "Grant",
+          "title": "Boiler Upgrade Scheme",
+          "text": "£7,500 off a heat pump in England and Wales, or £9,000 for eligible off-gas homes until 31 March 2027.",
+          "specs": [
+            [
+              "Income test",
+              "None"
+            ],
+            [
+              "Applied by",
+              "Your MCS installer"
+            ]
+          ],
+          "url": "https://www.gov.uk/apply-boiler-upgrade-scheme",
+          "href": "/heat-pumps/",
+          "more": "Heat pump guide"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Warm Home Discount 2026 to 2027",
+      "html": "<p>The Warm Home Discount is a one-off £150 off your electricity bill (or a top-up voucher if you prepay). The scheme reopened in October 2026 for winter 2026 to 2027. In England and Wales, eligible households on Pension Credit or qualifying means-tested benefits usually get it automatically, after a data match between the government and suppliers. In Scotland, you may need to apply to your supplier. Read our news guide: <a href=\"/blog/warm-home-discount-2026-27/\">who gets the Warm Home Discount this winter</a>.</p><p class=\"source-note\">Sources: <a href=\"https://www.gov.uk/the-warm-home-discount-scheme\" rel=\"nofollow noopener\" target=\"_blank\">GOV.UK: Warm Home Discount</a>.</p>"
+    },
+    {
+      "h2": "Winter Fuel Payment and Cold Weather Payment",
+      "html": "<p>The <strong>Winter Fuel Payment</strong> is £100 to £300 for people born on or before 27 June 1960, paid automatically to most people in November or December 2026. If your taxable income is over £35,000, HMRC takes it back. In Scotland, the Pension Age Winter Heating Payment replaces it.</p><p>A <strong>Cold Weather Payment</strong> is made when the temperature in your area is recorded or forecast to be 0°C or below for seven days in a row, if you get certain benefits.</p><p class=\"source-note\">Sources: <a href=\"https://www.gov.uk/winter-fuel-payment\" rel=\"nofollow noopener\" target=\"_blank\">GOV.UK: Winter Fuel Payment</a> · <a href=\"https://www.gov.uk/cold-weather-payment\" rel=\"nofollow noopener\" target=\"_blank\">GOV.UK: Cold Weather Payment</a>.</p>"
+    },
+    {
+      "h2": "Grants for heat pumps, insulation and solar",
+      "html": "<ul><li><strong>Boiler Upgrade Scheme:</strong> £7,500 towards an air or ground source heat pump in England and Wales, with a temporary £9,000 rate for eligible homes on oil or LPG until 31 March 2027. No income test. See our <a href=\"/heat-pumps/\">heat pump guide</a>.</li><li><strong>Warm Homes Plan:</strong> the government’s programme for home upgrades, including grants delivered through councils for lower-income households and planned low-interest loans for solar panels, batteries and heat pumps.</li><li><strong>ECO:</strong> the Energy Company Obligation, funded through bills, is ending as its last projects finish; support is moving to direct government grants.</li></ul><p class=\"source-note\">Sources: <a href=\"https://www.gov.uk/apply-boiler-upgrade-scheme\" rel=\"nofollow noopener\" target=\"_blank\">GOV.UK: Boiler Upgrade Scheme</a> · <a href=\"https://www.gov.uk/government/publications/warm-homes-plan/warm-homes-plan-html\" rel=\"nofollow noopener\" target=\"_blank\">GOV.UK: Warm Homes Plan</a>.</p>"
+    },
+    {
+      "h2": "If you’re struggling to pay",
+      "html": "<ul><li><strong>Talk to your supplier early.</strong> Suppliers must offer affordable repayment plans and consider your ability to pay.</li><li><strong>Ask about hardship funds.</strong> Many suppliers run grant schemes to clear energy debt.</li><li><strong>Energy debt relief:</strong> Ofgem has set up a debt relief scheme to write off some historic energy debt built up during the energy crisis for eligible low-income households. Suppliers identify and contact eligible customers.</li><li><strong>Prepay protections:</strong> you can ask for emergency and friendly-hours credit, and suppliers must not force-fit prepay meters in vulnerable households.</li><li><strong>Free advice:</strong> Citizens Advice and National Debtline can help.</li></ul><p class=\"source-note\">Sources: <a href=\"https://www.gov.uk/get-help-energy-bills\" rel=\"nofollow noopener\" target=\"_blank\">GOV.UK: help with energy bills</a> · <a href=\"https://www.citizensadvice.org.uk/consumer/energy/energy-supply/\" rel=\"nofollow noopener\" target=\"_blank\">Citizens Advice: energy supply</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I get the Warm Home Discount?",
+      "a": "In England and Wales most eligible households get it automatically and receive a letter. In Scotland you may need to apply to your supplier. It’s £150 off your electricity bill."
+    },
+    {
+      "q": "Can I get a free boiler?",
+      "a": "Free boiler schemes through ECO are winding down. The Boiler Upgrade Scheme gives £7,500 towards a heat pump, not a gas boiler. Lower-income households should check Warm Homes Plan grants through their council."
+    },
+    {
+      "q": "Who gets the Winter Fuel Payment in 2026?",
+      "a": "People born on or before 27 June 1960, living in England or Wales. If your income is over £35,000, HMRC takes the payment back. Scotland has a separate payment."
+    }
+  ],
+  "related": [
+    "heat-pumps",
+    "solar-panels",
+    "energy-saving-tips",
+    "energy-bill-changes"
+  ]
+}
