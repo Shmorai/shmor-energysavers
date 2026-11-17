@@ -1,0 +1,83 @@
+{
+  "updated": "2026-11-17",
+  "type": "post",
+  "slug": "blog/how-to-read-gas-electricity-meter",
+  "date": "2026-11-17",
+  "eyebrow": "Bills explained",
+  "title": "How to Read Your Gas and Electricity Meter",
+  "description": "How to read your gas and electricity meter, from digital and Economy 7 to dial meters, plus how to send readings so you avoid estimated bills this winter.",
+  "h1": "How to read your gas and electricity meter (and why it matters)",
+  "intro": "Without regular readings your supplier has to guess how much you use, and a guess can leave you overpaying or facing a big catch-up bill. Reading your meter takes two minutes once you know which digits to write down.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Kos-Kos_city-Electricity_meter-01ASD.jpg/1920px-Kos-Kos_city-Electricity_meter-01ASD.jpg",
+    "alt": "Three older electricity meters in sealed boxes mounted side by side on an outside wall",
+    "credit": "Asurnipal / CC BY-SA 4.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kos-Kos_city-Electricity_meter-01ASD.jpg"
+  },
+  "keywords": [
+    "how to read gas meter",
+    "how to read electricity meter",
+    "how to read economy 7 meter",
+    "submit meter reading",
+    "estimated energy bill",
+    "digital meter reading uk",
+    "dial meter reading",
+    "energy bill too high estimated",
+    "meter reading before price cap change"
+  ],
+  "cardText": "Digit-by-digit help for every meter type, and what to do about an estimated bill.",
+  "sources": [
+    {
+      "title": "Citizens Advice: How to read your gas or electricity meter",
+      "url": "https://www.citizensadvice.org.uk/consumer/energy/energy-supply/your-energy-meter/how-to-read-your-energy-meter/"
+    },
+    {
+      "title": "Citizens Advice: If you think you’ve been charged too much for your energy",
+      "url": "https://www.citizensadvice.org.uk/consumer/energy/energy-supply/problems-with-your-energy-bill/energy-bill-too-high/"
+    },
+    {
+      "title": "Citizens Advice: How to read your smart electricity meter",
+      "url": "https://www.citizensadvice.org.uk/consumer/energy/energy-supply/your-energy-meter/how-to-read-your-smart-electricity-meter/"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Why meter readings matter",
+      "html": "<p>If you don’t send readings, your supplier estimates your usage, which can make a bill too high or too low. Citizens Advice recommends sending your supplier a reading every month to keep bills accurate. It’s especially useful before a change in prices, such as a new <a href=\"/energy-price-cap/\">price cap period</a>, and when you <a href=\"/switch-energy-supplier/\">switch supplier</a> or move home.</p><p>If you have a smart meter working in smart mode, it sends readings automatically and you don’t need to do anything.</p>"
+    },
+    {
+      "h2": "How to read an electricity meter",
+      "html": "<ul><li><strong>Single-rate digital meter:</strong> write down the first 5 numbers from left to right and ignore any red number.</li><li><strong>Two-rate digital meter (such as Economy 7):</strong> there are two rows. The top row is usually the low or night rate and the bottom row the normal or day rate. Note both, ignore red numbers and give your supplier both readings.</li><li><strong>Two-rate meter with one display:</strong> it shows each rate in turn, automatically or when you press a button. Record both. If you can’t tell which is which, note the numbers in the morning and check again later: the one that changed is your normal rate. “N” means normal, not night.</li><li><strong>Dial meter:</strong> read the first 5 dials left to right, ignoring red dials and any marked 1/10. If a pointer sits between two numbers, write the lower one (between 9 and 0, write 9). Adjacent dials turn in opposite directions, so check each one.</li></ul>"
+    },
+    {
+      "h2": "How to read a gas meter",
+      "html": "<ul><li><strong>Digital metric meter:</strong> write down the first 5 numbers and ignore the digits after the decimal point, which may be red.</li><li><strong>Digital imperial meter:</strong> write down the first 4 numbers and ignore the 2 red ones.</li><li><strong>Dial meter:</strong> read the first 4 dials left to right, ignoring any large dials and red dials. Use the lower number when a pointer sits between two.</li></ul><p>Meters vary, so if yours doesn’t match these descriptions, check your supplier’s website for a guide or ask them to help.</p>"
+    },
+    {
+      "h2": "How to send your reading",
+      "html": "<p>Most suppliers take readings through their website or app, or by phone. Take a quick photo of the meter at the same time so you have proof of the figure and the date, and keep a note of your own.</p><p>If you can’t reach or read your meter, Citizens Advice says to ask your supplier about the Priority Services Register, which may include a regular visit to read it. When moving out, read your meters on the day you leave, give the readings to your supplier and keep a record.</p>"
+    },
+    {
+      "h2": "What to do if your bill looks too high",
+      "html": "<p>Citizens Advice suggests working through these checks:</p><ul><li>See whether the bill says it is estimated. If so, send a reading to get it updated.</li><li>Compare the unit rate and standing charge with earlier bills, in case prices changed.</li><li>Check that the MPRN (gas) or MPAN (electricity) on your bill matches your address.</li><li>Compare your own reading with the one on the bill. Mistakes can happen on a first bill from a new supplier, a final bill from an old one, or after a new gas meter reads in cubic metres rather than cubic feet.</li></ul><p>If it still looks wrong, complain to your supplier with photos of your readings and keep every message. If you can’t agree, the Energy Ombudsman is independent and can look at both sides. See also our <a href=\"/energy-saving-tips/\">energy-saving tips</a> for ways to cut use.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How often should I submit a meter reading?",
+      "a": "Citizens Advice recommends sending your supplier a reading every month. If you have a smart meter working in smart mode it does this for you."
+    },
+    {
+      "q": "Do I include the red numbers on my meter?",
+      "a": "No. On standard digital electricity and gas meters you ignore the red digits. On gas meters with a decimal point, ignore what comes after it."
+    },
+    {
+      "q": "What happens if I never send a reading?",
+      "a": "Your supplier estimates your usage, so your bill might be too high or too low. Sending a reading gets the bill corrected."
+    }
+  ],
+  "related": [
+    "energy-price-cap",
+    "smart-meters-and-ev-tariffs"
+  ]
+}
