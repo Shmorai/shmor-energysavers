@@ -465,3 +465,9 @@ section h2 { font-size: clamp(25px, 3vw, 34px); color: var(--ink); }
 .prose .figure b { display: block; font: 700 26px var(--display); color: var(--amber); letter-spacing: -.02em; }
 .prose .figure span { font-size: 13.5px; }
 .prose .source-note { font-size: 13.5px; color: var(--ink-3); }
+
+
+/* Affiliate disclosure bar at the top of every page (tools/build.js "aff-top"). Theme-neutral: inherits each site's colours. */
+.aff-top { order: -99; font-size: 12.5px; line-height: 1.5; border-bottom: 1px solid color-mix(in srgb, currentColor 14%, transparent); }
+.aff-top p { margin: 0; padding: 7px 0; opacity: .78; }
+.aff-top a { text-decoration: underline; text-underline-offset: 2px; white-space: nowrap; }
