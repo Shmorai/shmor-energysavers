@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-11-20",
   "slug": "switch-energy-supplier",
   "title": "How to Switch Energy Supplier: UK Guide & Rights",
   "description": "How to switch gas and electricity supplier in the UK: how long it takes, cooling-off rights, exit fees, and switching with debt or a prepayment meter.",
@@ -26,6 +26,10 @@
       "html": "<ol><li>Choose a tariff and sign up with the new supplier (or through a comparison site).</li><li>The new supplier contacts your old one. You don’t need to.</li><li>You have a 14-day cooling-off period to change your mind.</li><li>Give meter readings on the switch day (smart meters send them automatically).</li><li>Your old supplier sends a final bill. Any credit should be refunded.</li></ol><p>Most switches complete within a few working days of the cooling-off period, and your gas and electricity stay on throughout: the pipes and wires don’t change.</p>"
     },
     {
+      "h2": "Compare standing charges as well as unit rates",
+      "html": "<p>Every tariff has a unit rate and a daily standing charge, and you pay the standing charge even on days you use no energy (Ofgem). When you compare deals, look at the <strong>estimated annual cost for your own usage</strong> rather than the unit rate alone, because a tariff with a low unit rate and a high daily charge can cost more for a light user. Our guide explains <a href=\"/blog/how-standing-charges-work/\">how standing charges work</a>. (Source: <a href=\"https://www.ofgem.gov.uk/your-energy-supply/your-energy-bill/energy-price-cap-and-standing-charges-explained\" rel=\"nofollow noopener\">Ofgem: Energy price cap and standing charges explained</a>.)</p>"
+    },
+    {
       "h2": "Your rights when switching",
       "html": "<ul><li><strong>No exit fees in the last 49 days</strong> of a fixed tariff.</li><li><strong>Prepayment with debt:</strong> you can usually switch with up to £500 of debt per fuel (£1,000 dual fuel), which moves to the new supplier.</li><li><strong>Credit refunds:</strong> your old supplier should refund credit after the final bill.</li><li><strong>Renters:</strong> if you pay the energy bills, you can usually switch, but check your tenancy agreement.</li></ul><p class=\"source-note\">Sources: <a href=\"https://www.citizensadvice.org.uk/consumer/energy/energy-supply/\" rel=\"nofollow noopener\" target=\"_blank\">Citizens Advice: energy supply</a>.</p>"
     },
@@ -46,6 +50,10 @@
     {
       "q": "Can I switch if I’m in debt to my supplier?",
       "a": "Prepayment customers can usually switch with up to £500 of debt per fuel. Credit meter customers often need to repay first. Ask your supplier for help if you’re struggling."
+    },
+    {
+      "q": "Should I look at the standing charge when I switch?",
+      "a": "Yes. Compare the estimated annual cost for your usage, which combines unit rate and daily standing charge, instead of judging by either figure alone."
     }
   ],
   "related": [

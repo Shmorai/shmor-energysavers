@@ -1,0 +1,96 @@
+{
+  "updated": "2026-11-20",
+  "type": "post",
+  "slug": "blog/how-standing-charges-work",
+  "date": "2026-11-20",
+  "eyebrow": "Bills explained",
+  "title": "Energy Standing Charges Explained: What You Pay",
+  "description": "Energy standing charges explained: what the daily charge pays for, how it differs from unit rates, what the price cap says and when a low-charge tariff helps.",
+  "h1": "Energy standing charges explained: what the daily charge is and how to cut its impact",
+  "intro": "Every gas and electricity bill has two moving parts: the unit rate for the energy you use and a fixed daily standing charge. The second one is easy to overlook, yet you pay it even if you are away all month. Here is what it is, what it covers and when it matters when you compare tariffs.",
+  "cardText": "What the daily standing charge pays for, how it sits inside the price cap, and how to compare tariffs properly.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1642961597907-fc6fbff01720",
+    "alt": "A pile of British pound coins on a table",
+    "credit": "Sarah Agnew",
+    "creditUrl": "https://unsplash.com/@sarahagnewphotos"
+  },
+  "keywords": [
+    "standing charge explained",
+    "what is a standing charge",
+    "energy standing charge uk",
+    "electricity standing charge per day",
+    "gas standing charge",
+    "low standing charge tariff",
+    "no standing charge tariff",
+    "why is my standing charge so high",
+    "standing charge price cap",
+    "how to compare energy tariffs"
+  ],
+  "sections": [
+    {
+      "h2": "What is an energy standing charge?",
+      "html": "<p>A standing charge is a <strong>fixed daily fee</strong> on your gas and electricity bill. You pay it whether you use a lot of energy, a little or none that day. Your tariff has two parts: the <strong>unit rate</strong> (pence per kWh used) and the standing charge (pence per day). Your bill adds the two together, plus VAT.</p><p>Ofgem, the energy regulator, explains that the standing charge helps pay for the fixed costs of supplying a home, such as maintaining the network of wires and pipes, taking meter readings and funding government social and environmental schemes. Because those costs do not depend on how much you use, they are collected as a daily amount.</p>"
+    },
+    {
+      "h2": "How standing charges fit into the price cap",
+      "html": "<p>The Ofgem price cap limits both parts of the bill on standard variable (default) tariffs: the unit rates and the standing charges. It does not limit your total bill, which still depends on your usage. See our <a href=\"/energy-price-cap/\">price cap page</a> for the full history.</p><p>For 1 October to 31 December 2026, Ofgem’s cap for a typical direct debit customer sets electricity at <strong>26.32p per kWh plus a 54.83p daily standing charge</strong>, and gas at <strong>7.97p per kWh plus a 29.68p daily standing charge</strong> (Ofgem, as of November 2026). Over a 365-day year, those daily amounts add up to roughly £200 for electricity and £108 for gas before VAT-related adjustments, which is simple arithmetic on the published figures rather than an Ofgem estimate. The next cap is due to be announced on 25 November 2026: see <a href=\"/blog/energy-price-cap-january-2027/\">what to expect from the January 2027 cap</a>.</p>"
+    },
+    {
+      "h2": "Why your standing charge may differ from a neighbour’s",
+      "html": "<p>Ofgem and Citizens Advice both note that the standing charge depends partly on <strong>where you live</strong>, because it reflects local network costs and your network operator. It also varies between tariffs: fixed deals and other products set their own daily charges, and the cap only limits default tariffs. So the quickest way to check your own figure is to look at your latest bill or your online account, where the unit rate and standing charge appear separately.</p>"
+    },
+    {
+      "h2": "Low and zero standing charge tariffs: who they suit",
+      "html": "<p>Some suppliers offer tariffs with a low or even zero standing charge. The trade-off is that the <strong>unit rate is usually higher</strong>, because the supplier still needs to recover its fixed costs. Ofgem has said it is bringing in lower standing charge options and has also stressed that these charges cannot be removed, only moved between parts of the bill, so they will not cut bills by themselves.</p><ul><li><strong>May suit:</strong> low users, such as someone living alone in a small flat or a second home used occasionally.</li><li><strong>May not suit:</strong> large households, electric heating, heat pumps or EV owners, where the higher unit rate costs more than the saved daily charge.</li></ul><p>The only reliable test is to run the numbers: take your annual kWh from your bill or meter readings, multiply by each tariff’s unit rate, add the daily charge times 365, and compare the totals.</p>"
+    },
+    {
+      "h2": "What the standing charge costs you in practice",
+      "html": "<p>Using the cap figures above, a week away from home with the heating off still costs about <strong>£3.84 in electricity standing charge</strong> (7 × 54.83p) and about <strong>£2.08 for gas</strong> (7 × 29.68p), whatever the meter shows. That is simple multiplication of Ofgem’s published daily rates for a default tariff, not a bill estimate for your home. It is also why switching off appliances while you are away saves on unit costs only, never on the standing charge, and why a low-usage household sees the daily charge make up a bigger share of its total bill.</p><p>If you are moving home, remember that the new address will have its own standing charge and supplier: take final readings and tell your supplier, as covered in our <a href=\"/energy-saving-tips/\">energy saving tips</a> and meter guide.</p>"
+    },
+    {
+      "h2": "How to compare tariffs properly",
+      "html": "<p>When you look at <a href=\"/energy-tariffs/\">tariffs</a> or use a comparison service, do not judge a deal on the unit rate alone. A tariff with a cheap unit rate and a high standing charge can cost more for a light user, and the reverse for a heavy one. Always compare the <strong>estimated annual cost for your own usage</strong>, and check exit fees on fixed deals. Our guide to <a href=\"/switch-energy-supplier/\">switching supplier</a> covers the steps, and taking regular meter readings helps keep bills accurate: see <a href=\"/blog/how-to-read-gas-electricity-meter/\">how to read your meter</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I pay a standing charge if I use no energy?",
+      "a": "Yes. Ofgem and Citizens Advice both explain that the standing charge is a fixed daily fee you pay whether or not you use any energy that day."
+    },
+    {
+      "q": "Is the standing charge included in the price cap?",
+      "a": "Yes. The cap limits both unit rates and standing charges on default tariffs. It does not limit your total bill, which depends on how much you use."
+    },
+    {
+      "q": "Is a zero standing charge tariff always cheaper?",
+      "a": "No. Such tariffs usually have a higher unit rate. They tend to suit low users, so compare the estimated annual cost for your own usage before switching."
+    },
+    {
+      "q": "Why is my standing charge different from a friend’s?",
+      "a": "It depends partly on your postcode and network operator, and on the tariff you are on, so two households can pay different daily amounts."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ofgem: Energy price cap and standing charges explained",
+      "url": "https://www.ofgem.gov.uk/your-energy-supply/your-energy-bill/energy-price-cap-and-standing-charges-explained"
+    },
+    {
+      "title": "Ofgem: Standing charges",
+      "url": "https://www.ofgem.gov.uk/energy-regulation/domestic-and-non-domestic/energy-pricing-rules/standing-charges"
+    },
+    {
+      "title": "Ofgem: Ofgem confirms plans to introduce lower standing charge tariffs",
+      "url": "https://www.ofgem.gov.uk/press-release/ofgem-confirms-plans-introduce-lower-standing-charge-tariffs"
+    },
+    {
+      "title": "Citizens Advice: Choosing your energy tariff",
+      "url": "https://www.citizensadvice.org.uk/consumer/energy/energy-supply/get-a-better-energy-deal/choosing-energy-tariff/"
+    }
+  ],
+  "related": [
+    "energy-tariffs",
+    "energy-price-cap"
+  ]
+}
