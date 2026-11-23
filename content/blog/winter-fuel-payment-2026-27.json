@@ -1,0 +1,95 @@
+{
+  "updated": "2026-11-23",
+  "type": "post",
+  "slug": "blog/winter-fuel-payment-2026-27",
+  "date": "2026-11-23",
+  "eyebrow": "Help with bills",
+  "title": "Winter Fuel Payment 2026/27: Who Gets It and When",
+  "description": "Winter Fuel Payment 2026/27 explained: who is eligible, how much you get (£100 to £300), when it is paid, how to claim and when HMRC takes it back.",
+  "h1": "Winter Fuel Payment 2026/27: who gets it, how much and when it is paid",
+  "intro": "The Winter Fuel Payment is paid to people born on or before 27 June 1960, and this winter it is worth between £100 and £300. Most payments are made automatically in November or December. Here is who qualifies, how the amounts work, what to do if the money has not arrived and when it is clawed back through tax.",
+  "cardText": "Who qualifies, the £100–£300 amounts, when it is paid, how to claim and the £35,000 income rule.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1599028274511-e02a767949a3",
+    "alt": "A white radiator under a wooden window",
+    "credit": "Julian Hochgesang",
+    "creditUrl": "https://unsplash.com/@julianhochgesang"
+  },
+  "keywords": [
+    "winter fuel payment 2026",
+    "winter fuel payment 2026/27",
+    "who gets winter fuel payment",
+    "winter fuel payment when is it paid",
+    "winter fuel payment amount",
+    "winter fuel payment £35,000",
+    "winter fuel payment claim",
+    "winter fuel payment not received",
+    "winter fuel allowance 2026"
+  ],
+  "sections": [
+    {
+      "h2": "Who can get the Winter Fuel Payment in 2026/27?",
+      "html": "<p>According to GOV.UK, you can get a Winter Fuel Payment if you were <strong>born on or before 27 June 1960</strong> and usually live in <strong>England, Wales or Northern Ireland</strong>. Your circumstances during the “qualifying week” of <strong>21 to 27 September 2026</strong> decide whether you qualify and how much you get.</p><p>You will not be eligible if you usually live outside those nations, were only visiting during the qualifying week, were in hospital receiving free treatment for the whole of that week and the year before, were in prison for the whole week, or need permission to enter the UK and your granted leave says you cannot claim public funds. If you live in Scotland you cannot get the Winter Fuel Payment, though you may be eligible for the Pension Age Winter Heating Payment instead (GOV.UK, as of November 2026).</p>"
+    },
+    {
+      "h2": "How much is the Winter Fuel Payment this winter?",
+      "html": "<p>GOV.UK says the payment is worth <strong>£100 to £300</strong>, based on your birth date and who you live with. If you live alone, or nobody you live with is eligible, you get:</p><ul><li><strong>£200</strong> if you were born between 28 September 1946 and 27 June 1960</li><li><strong>£300</strong> if you were born before 28 September 1946</li></ul><p>If you live with someone else who is eligible and you do not get Pension Credit, Universal Credit or income-related ESA, the amounts are lower (£100 or £150 in some combinations), and care home residents get £100 or £150. GOV.UK’s “How much you’ll get” page has the full table, so check it against your own situation. The payment does not affect your other benefits.</p>"
+    },
+    {
+      "h2": "When is the Winter Fuel Payment paid?",
+      "html": "<p>Most eligible people are paid <strong>automatically in November or December 2026</strong>. You should get a letter in October or November saying how much you will receive and into which bank account, usually the one your State Pension or other benefits go into. If you have no letter, or the money has not arrived by <strong>27 January 2027</strong>, contact the Winter Fuel Payment Centre (GOV.UK).</p>"
+    },
+    {
+      "h2": "Do I need to claim the Winter Fuel Payment?",
+      "html": "<p>Most people do not. You do not need to claim if you get benefits such as the State Pension, Pension Credit, Universal Credit, Attendance Allowance, PIP, Carer’s Allowance or DLA. You do need to claim if you have never had a Winter Fuel Payment before, or you have deferred your State Pension since your last payment.</p><p>You can claim by post from 21 September 2026 or by phone from 19 October 2026. The <strong>deadline for winter 2026/27 is 31 March 2027</strong>. Phone line: 0800 731 0160 (Monday to Friday, 8am to 6pm). Have your National Insurance number and bank details ready (GOV.UK).</p>"
+    },
+    {
+      "h2": "Winter Fuel Payment and the £35,000 income rule",
+      "html": "<p>If your total income is <strong>over £35,000</strong>, HMRC takes the payment back, either by changing your tax code or by adding it to your Self Assessment return. Your partner’s income does not count towards the threshold. You can also opt out of the payment if you would rather not receive it (GOV.UK).</p>"
+    },
+    {
+      "h2": "Other help with heating bills",
+      "html": "<p>The Winter Fuel Payment is separate from other support. GOV.UK points to the Cold Weather Payment (for certain benefit claimants when temperatures hit 0°C or below for seven days in a row) and the £150 Warm Home Discount for Pension Credit and low-income households: see our <a href=\"/blog/warm-home-discount-2026-27/\">Warm Home Discount guide</a> and <a href=\"/energy-grants/\">energy grants page</a>. For lowering what you spend in the first place, try our <a href=\"/energy-saving-tips/\">energy saving tips</a>, and see the <a href=\"/energy-price-cap/\">price cap page</a> for current unit rates.</p><p><strong>Scam warning:</strong> GOV.UK cautions that messages asking for bank details or passwords and claiming to be from a government service may be scams. Do not click links in unexpected texts or emails.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who gets the Winter Fuel Payment in 2026/27?",
+      "a": "People born on or before 27 June 1960 who usually live in England, Wales or Northern Ireland, subject to the qualifying-week rules on GOV.UK. It is not available in Scotland."
+    },
+    {
+      "q": "How much is the Winter Fuel Payment?",
+      "a": "Between £100 and £300 depending on your birth date and household. A person living alone gets £200, or £300 if born before 28 September 1946."
+    },
+    {
+      "q": "I have not been paid. What should I do?",
+      "a": "Most payments arrive in November or December. If you have no letter or no payment by 27 January 2027, contact the Winter Fuel Payment Centre. If you need to claim, the deadline is 31 March 2027."
+    },
+    {
+      "q": "Will I have to pay it back?",
+      "a": "Only if your total income is over £35,000. HMRC then recovers it through your tax code or Self Assessment."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Winter Fuel Payment overview",
+      "url": "https://www.gov.uk/winter-fuel-payment"
+    },
+    {
+      "title": "GOV.UK: Winter Fuel Payment eligibility",
+      "url": "https://www.gov.uk/winter-fuel-payment/eligibility"
+    },
+    {
+      "title": "GOV.UK: Winter Fuel Payment, how much you’ll get",
+      "url": "https://www.gov.uk/winter-fuel-payment/how-much-youll-get"
+    },
+    {
+      "title": "GOV.UK: Winter Fuel Payment, check if you need to claim",
+      "url": "https://www.gov.uk/winter-fuel-payment/how-to-claim"
+    },
+    {
+      "title": "GOV.UK: Winter Fuel Payment, when you’ll get paid",
+      "url": "https://www.gov.uk/winter-fuel-payment/when-youll-get-paid"
+    }
+  ]
+}
