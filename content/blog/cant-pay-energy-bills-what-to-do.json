@@ -1,0 +1,87 @@
+{
+  "updated": "2026-11-25",
+  "type": "post",
+  "slug": "blog/cant-pay-energy-bills-what-to-do",
+  "date": "2026-11-25",
+  "eyebrow": "Help with bills",
+  "title": "Can't Pay Your Energy Bill? Help Available (UK)",
+  "description": "Can't pay your energy bill? How to ask your supplier for a payment plan or break, what prepayment meter customers can get, and where to find free debt advice.",
+  "h1": "Can’t pay your energy bill? What to do and the help you can ask for",
+  "intro": "If your gas or electricity bill is more than you can afford, speak to your supplier before you miss a payment. Ofgem, the energy regulator, says suppliers must work with you to agree a payment plan you can afford. Here are the options to ask for, what prepayment meter customers can get, and where to find free advice.",
+  "cardText": "Payment plans, breaks, hardship funds, prepayment emergency credit and free advice, in plain English.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/247_Home_Rescue_radiator_thermostat.jpg/1920px-247_Home_Rescue_radiator_thermostat.jpg",
+    "alt": "A white radiator thermostat valve fitted beside a radiator",
+    "credit": "247homerescue / CC0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:247_Home_Rescue_radiator_thermostat.jpg"
+  },
+  "keywords": [
+    "can't pay energy bill",
+    "struggling to pay energy bills",
+    "energy bill payment plan",
+    "energy debt help uk",
+    "energy supplier payment break",
+    "hardship fund energy",
+    "prepayment meter emergency credit",
+    "energy bill help winter 2026",
+    "what happens if you can't pay your energy bill"
+  ],
+  "sections": [
+    {
+      "h2": "Contact your supplier first",
+      "html": "<p>Ofgem’s advice is to tell your supplier as soon as you are struggling to pay, or expect to. You can ask it to <strong>agree a payment plan, a payment break or a reduction</strong>, and to review both your regular payments and any debt repayments (Ofgem, as of November 2026). You do not need to wait until you are in arrears.</p><p>Have your latest bill, meter readings and a rough list of your income and outgoings to hand. A supplier can only set a realistic plan if it knows what you can afford.</p>"
+    },
+    {
+      "h2": "What help can you ask for?",
+      "html": "<ul><li><strong>A payment plan</strong> that spreads what you owe over a longer time.</li><li><strong>A payment break</strong> or a lower monthly payment for a set period.</li><li><strong>A review of your direct debit</strong>, which may be too high or too low. Reading your meter and sending the figures helps; our guide to <a href=\"/blog/how-to-read-gas-electricity-meter/\">reading your gas and electricity meter</a> shows how.</li><li><strong>Hardship funds</strong> or other schemes some suppliers run for energy costs, paying off energy debt or home energy-saving improvements. Ask whether yours has one.</li></ul><p>Ofgem’s rules say repayment plans must be realistic and reflect what you can afford, and that suppliers should contact customers in debt proactively (Ofgem, 2020 announcement of licence changes in force since December 2020).</p>"
+    },
+    {
+      "h2": "If you have a prepayment meter",
+      "html": "<p>Ofgem says suppliers must offer <strong>emergency credit</strong> to customers who struggle to top up, and extra credit to vulnerable households while they arrange other ways to pay. The aim is to stop people going without heat because the meter has run out. If you are running low, contact your supplier before the credit ends rather than after.</p>"
+    },
+    {
+      "h2": "Other help you may be entitled to",
+      "html": "<p>Supplier support sits alongside government and local help. Your council may offer support, and the UK, Scottish and Welsh governments each publish help for household energy bills (Ofgem). Check whether you qualify for the <a href=\"/blog/warm-home-discount-2026-27/\">Warm Home Discount</a> or, if you are of pension age, the <a href=\"/blog/winter-fuel-payment-2026-27/\">Winter Fuel Payment</a>, and see our <a href=\"/energy-grants/\">energy grants and help</a> page for schemes that pay towards insulation and heating.</p><p>Cutting use also helps, though it is no substitute for affordable repayments. Our <a href=\"/energy-saving-tips/\">energy saving tips</a> cover the changes that matter most.</p>"
+    },
+    {
+      "h2": "Free debt and bill advice",
+      "html": "<p>Ofgem points to <strong>Citizens Advice</strong> for bill problems and supplier issues: 0808 144 8844 in England, Energyadvice.scot or 0808 196 8660 in Scotland, and Advicelink Cymru or 0800 702 2020 in Wales. For wider money worries, <strong>MoneyHelper</strong> gives free information and advice on personal debt. Temporary protection from creditors is available through Breathing Space or the Debt Respite Scheme in England and Wales, and a debt moratorium in Scotland.</p><p>Microbusinesses can find support through the UK government business support helpline, Business Energy Scotland or Business Wales.</p>"
+    },
+    {
+      "h2": "If your supplier will not help",
+      "html": "<p>Ofgem says that if you do not get the support you need, you can complain about your supplier. Keep a note of who you spoke to and when, and ask for any plan in writing. Citizens Advice can help you take the complaint further. If you are thinking of changing supplier, see our <a href=\"/switch-energy-supplier/\">switching guide</a>, and ask your current supplier how any balance owed will be handled before you move.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will my energy supplier cut me off if I can't pay?",
+      "a": "Ofgem’s rules say suppliers must work with you on an affordable payment plan, so the first step is to contact yours early. Support and any steps before disconnection depend on your circumstances, so check Ofgem’s guidance or ask Citizens Advice if you are worried."
+    },
+    {
+      "q": "Can I get a payment break on my energy bill?",
+      "a": "You can ask. Ofgem says you can ask your supplier to agree a payment plan, a payment break or a reduction, and to review your payments and debt repayments. Whether it is granted depends on your circumstances and the supplier’s assessment."
+    },
+    {
+      "q": "What if my prepayment meter has run out?",
+      "a": "Ofgem says suppliers must offer emergency credit to prepayment customers who struggle to top up, with extra credit available for vulnerable households. Contact your supplier straight away."
+    },
+    {
+      "q": "Where can I get free help with energy debt?",
+      "a": "Citizens Advice covers bills and supplier problems, and MoneyHelper offers free information on personal debt. Both are listed on Ofgem’s help page."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ofgem: Get help if you cannot afford your energy bills",
+      "url": "https://www.ofgem.gov.uk/information-consumers/domestic-consumers/help-energy-bills"
+    },
+    {
+      "title": "Ofgem: Ofgem strengthens protections for customers struggling with energy bills (19 Oct 2020)",
+      "url": "https://www.ofgem.gov.uk/publications/ofgem-strengthens-protections-customers-struggling-energy-bills-winter"
+    }
+  ],
+  "related": [
+    "energy-grants",
+    "blog/winter-fuel-payment-2026-27"
+  ]
+}
