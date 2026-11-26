@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-11-26",
   "slug": "solar-panels",
   "title": "Solar Panels UK: Costs to Check, Export & Batteries",
   "description": "Thinking about solar panels? What to check in a quote, how the Smart Export Guarantee pays you, whether a battery is worth it and finding an MCS installer.",
@@ -35,6 +35,10 @@
     {
       "h2": "Is a battery worth it?",
       "html": "<p>A battery stores daytime solar for the evening, and can charge from the grid on a cheap overnight <a href=\"/smart-meters-and-ev-tariffs/\">time-of-use tariff</a>. Whether it pays back depends on your usage pattern, tariff and battery price. The government plans low-interest Warm Homes Plan loans for solar panels and batteries.</p>"
+    },
+    {
+      "h2": "For US and Canada readers: portable power stations",
+      "html": "<p>This guide covers rooftop solar in the UK. If you live in the US or Canada and want backup power, or a plug-in way to use solar, a portable power station (a large rechargeable battery with built-in sockets) can be charged from the grid or from portable solar panels. Before you buy, check its capacity in kWh, its continuous output in watts, and which appliances you need it to run.</p><p>[[link:rk53552-home|Anker SOLIX]] sells portable power stations, solar generators and solar panels through its US store.</p>[[banner:rk53552-b-728|rk53552-b-300]][[button:rk53552-home|Browse Anker SOLIX (US)]]"
     }
   ],
   "faqs": [
@@ -52,5 +56,9 @@
     "smart-meters-and-ev-tariffs",
     "energy-grants",
     "energy-tariffs"
-  ]
+  ],
+  "partners": [
+    "rk53552-usaff5"
+  ],
+  "partnersTitle": "Partner offer for US readers"
 }

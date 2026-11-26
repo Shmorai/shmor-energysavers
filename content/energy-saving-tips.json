@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-11-26",
   "slug": "energy-saving-tips",
   "nav": "Save energy",
   "navOrder": 7,
@@ -73,11 +73,11 @@
     },
     {
       "h2": "Make your tariff work harder",
-      "html": "<p>If you have a smart meter, moving washing, dishwashing and EV charging to off-peak times can save money on a <a href=\"/smart-meters-and-ev-tariffs/\">time-of-use tariff</a>. If you’re on Economy 7, run storage heaters and hot water on the cheap night rate.</p>"
+      "html": "<p>If you have a smart meter, moving washing, dishwashing and EV charging to off-peak times can save money on a <a href=\"/smart-meters-and-ev-tariffs/\">time-of-use tariff</a>. If you’re on Economy 7, run storage heaters and hot water on the cheap night rate.</p><p>In the US or Canada? A portable power station, such as those from [[link:rk53552-home|Anker SOLIX]], can store solar or off-peak power to use later.</p>"
     },
     {
       "h2": "Save on water too",
-      "html": "<p>Fix dripping taps, fit a water-efficient shower head and only run full loads. If you’re metered, every litre saved comes off your bill. See our <a href=\"/water-bills/\">water bills guide</a> for meters and social tariffs.</p>"
+      "html": "<p>Fix dripping taps, fit a water-efficient shower head and only run full loads. If you’re metered, every litre saved comes off your bill. See our <a href=\"/water-bills/\">water bills guide</a> for meters and social tariffs.</p><p>In the US and buying bottled water? A tap water filter, for example from [[link:rk53950-home|Waterdrop]], is an alternative. Check which certifications it has (such as NSF/ANSI standards) and the cost of replacement cartridges.</p>"
     }
   ],
   "faqs": [

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-11-26",
   "slug": "water-bills",
   "nav": "Water",
   "navOrder": 5,
@@ -46,6 +46,10 @@
     {
       "h2": "The water industry is being reformed",
       "html": "<p>In July 2025 the government announced that Ofwat will be abolished and replaced by a single new water regulator, combining water functions now spread across Ofwat, the Environment Agency, Natural England and the Drinking Water Inspectorate. A white paper, <em>A new vision for water</em>, followed in January 2026, with legislation to follow. Campaigners have criticised the decision not to include a single national social tariff. Read our explainer: <a href=\"/blog/water-bills-2026-reform/\">water bills and the new regulator</a>.</p><p class=\"source-note\">Sources: <a href=\"https://www.gov.uk/government/news/ofwat-to-be-abolished-in-biggest-overhaul-of-water-since-privatisation\" rel=\"nofollow noopener\" target=\"_blank\">GOV.UK: Ofwat to be abolished</a> · <a href=\"https://commonslibrary.parliament.uk/research-briefings/cbp-10998/\" rel=\"nofollow noopener\" target=\"_blank\">House of Commons Library: A new vision for water</a>.</p>"
+    },
+    {
+      "h2": "For US readers: filtering tap water",
+      "html": "<p>This page covers water bills in England and Wales. If you live in the US and buy bottled water because of how your tap water tastes, a filter jug, an under-sink filter or a reverse osmosis system is an alternative. Check which contaminants a filter is certified to reduce (look for NSF/ANSI certification), how often the cartridges need replacing and what they cost.</p><p>[[link:rk53950-home|Waterdrop]] sells water filters, under-sink and reverse osmosis systems through its US store.</p>[[banner:rk53950-b-bf]][[button:rk53950-home|See Waterdrop deals (US)]]"
     }
   ],
   "faqs": [
