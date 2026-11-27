@@ -1,0 +1,88 @@
+{
+  "updated": "2026-11-27",
+  "type": "post",
+  "slug": "blog/how-to-complain-energy-supplier",
+  "date": "2026-11-27",
+  "eyebrow": "Your rights",
+  "title": "How to Complain to Your Energy Supplier (UK Guide)",
+  "description": "How to complain to your energy supplier in the UK: what to send, the 8-week rule, deadlock letters and when to take it to the Energy Ombudsman for free.",
+  "h1": "How to complain to your energy supplier, step by step",
+  "intro": "Wrong bill, estimated readings that keep climbing, a switch that went wrong, or a refund that never arrives: most energy problems can be fixed if you complain the right way. Here is the process the UK regulator describes, from your first message to the free Energy Ombudsman, and what to keep as evidence.",
+  "cardText": "The 8-week rule, deadlock letters and when the free Energy Ombudsman can step in.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1610028290816-5d937a395a49",
+    "alt": "An electricity pole silhouetted against a sunset",
+    "credit": "Andrey Metelev",
+    "creditUrl": "https://unsplash.com/@metelevan"
+  },
+  "keywords": [
+    "how to complain to energy supplier",
+    "energy supplier complaint uk",
+    "energy ombudsman",
+    "energy complaint 8 weeks",
+    "deadlock letter energy",
+    "wrong energy bill complaint",
+    "complain about energy bill",
+    "ofgem complaints",
+    "energy supplier not responding",
+    "energy complaint compensation"
+  ],
+  "sections": [
+    {
+      "h2": "Start with your supplier, and put it in writing",
+      "html": "<p>Ofgem, the energy regulator, and Citizens Advice both say the first step is to complain to your supplier directly. A phone call or webchat is fine to begin with, but if it is not fixed on the spot, <strong>follow up by email or letter</strong> repeating what you said. That gives you a dated record.</p><ul><li>State the problem in two or three sentences and say what you want (a corrected bill, a refund, a visit, an apology).</li><li>Include your account number, the meter readings you took (with the date) and photos of the meter if relevant.</li><li>Note the date, time and name of anyone you speak to.</li><li>If you post it, use proof of postage or recorded delivery.</li></ul><p>If you are struggling to pay rather than disputing a charge, our guide to <a href=\"/blog/cant-pay-energy-bills-what-to-do/\">what to do when you can’t pay your energy bill</a> covers the support suppliers must offer.</p>"
+    },
+    {
+      "h2": "Check your facts before you send it",
+      "html": "<p>Many bill disputes come down to readings. Compare the figures on your bill with your own meter, and mark whether the bill says <em>estimated</em>. Our guide on <a href=\"/blog/how-to-read-gas-electricity-meter/\">how to read your gas and electricity meter</a> shows how, and a dated photo is hard to argue with. It also helps to understand the two parts of a bill, the unit rate and the daily charge, so you can spot which one is wrong: see <a href=\"/blog/how-standing-charges-work/\">how standing charges work</a>.</p><p>If you want to stop the dispute by leaving, check your contract first. Switching is possible in most cases, but any exit fees on a fixed deal and outstanding debt will still matter. Our <a href=\"/switch-energy-supplier/\">switching guide</a> explains what happens to your final bill.</p>"
+    },
+    {
+      "h2": "The 8-week rule and the deadlock letter",
+      "html": "<p>After you complain, your supplier normally has <strong>up to eight weeks</strong> to resolve it. There is one exception: if the supplier confirms in writing that it cannot or will not take things further, it should send a <strong>deadlock letter</strong> (Ofgem and the Energy Ombudsman describe it as a final response).</p><ul><li><strong>Deadlock letter received:</strong> you can go to the Energy Ombudsman straight away.</li><li><strong>No letter:</strong> you can go to the Ombudsman once eight weeks have passed without the problem being fixed.</li></ul><p>Keep every reply from the supplier. They show what was offered and when, which is exactly what the Ombudsman will ask to see.</p>"
+    },
+    {
+      "h2": "Taking it to the Energy Ombudsman",
+      "html": "<p>The Energy Ombudsman (run by Ombudsman Services) is independent and <strong>free to use</strong>. It can look at complaints about the major household suppliers and, according to Ofgem and Citizens Advice, it can require a supplier to put things right: practical action such as correcting a bill, an apology or compensation.</p><ul><li><strong>Time limit:</strong> bring your complaint within 12 months of the supplier’s deadlock letter or final response (as of November 2026; check the Ombudsman’s site).</li><li><strong>How:</strong> use the online form on the Energy Ombudsman website, or phone 0330 440 1624.</li><li><strong>You are not bound:</strong> the decision binds the supplier, but you can usually turn it down and pursue other options.</li></ul><p>Business customers and Northern Ireland follow different routes, so check Ofgem’s or Citizens Advice’s guidance if that applies to you.</p>"
+    },
+    {
+      "h2": "Other help while you wait",
+      "html": "<p>Citizens Advice runs a consumer helpline and has template complaint letters. Ofgem does not handle individual complaints itself but its pages explain who does. If a problem is leaving you without heating, tell your supplier that you are vulnerable or have a medical need, as suppliers have extra obligations to some customers. If money is the underlying issue, look at the <a href=\"/energy-grants/\">grants and help available</a> and our <a href=\"/energy-price-cap/\">price cap page</a> to check you are on a fair default rate.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long does an energy supplier have to answer a complaint?",
+      "a": "Normally up to eight weeks to resolve it. If the supplier sends a deadlock letter saying it cannot take the matter further, you can go to the Energy Ombudsman immediately."
+    },
+    {
+      "q": "Is the Energy Ombudsman free?",
+      "a": "Yes. The service is independent and free for consumers, and it can require the supplier to take action, which may include an apology or compensation."
+    },
+    {
+      "q": "How long do I have to go to the Energy Ombudsman?",
+      "a": "Currently 12 months from the date of the supplier’s deadlock letter or final response (as of November 2026). Check the Ombudsman’s website in case the rule changes."
+    },
+    {
+      "q": "Do I need to keep paying while I dispute a bill?",
+      "a": "Usually you should pay the part you agree is correct and tell the supplier clearly what you dispute. Ask Citizens Advice if you are unsure for your situation."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ofgem: Complain about your energy supplier or network operator",
+      "url": "https://www.ofgem.gov.uk/complaints"
+    },
+    {
+      "title": "Citizens Advice: Complain to your energy supplier",
+      "url": "https://www.citizensadvice.org.uk/consumer/energy/energy-supply/complain-about-an-energy-company/complain-to-your-energy-supplier/"
+    },
+    {
+      "title": "Energy Ombudsman",
+      "url": "https://www.ombudsman-services.org/sectors/energy"
+    }
+  ],
+  "related": [
+    "switch-energy-supplier",
+    "blog/how-standing-charges-work"
+  ]
+}
